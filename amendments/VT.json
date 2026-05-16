@@ -1,0 +1,45 @@
+{
+  "state": "VT",
+  "stateName": "Vermont",
+  "necCycle": "2023",
+  "effectiveDate": "2025-11-05",
+  "source": "Vermont Electrical Safety Rules, 2025 Edition - Vermont Electricians' Licensing Board and Department of Public Safety, Division of Fire Safety. Effective November 5, 2025.",
+  "amendments": [
+    {
+      "article": "210.8(A)(11)",
+      "summary": "Laundry areas and rooms — deleted and replaced: GFCI protection shall be required for receptacles installed within 6 feet (1.8 m) of a washing machine or sink. Note: This is more specific than the base 2023 NEC language, tying the requirement to proximity to the washing machine or sink rather than the broader 'laundry areas' language."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI — Exception No. 3 added: GFCI protection is not required for water wells, sewer discharge pumps, and hardwired electric vehicle chargers with integral GFCI protection and a properly terminated equipment grounding conductor."
+    },
+    {
+      "article": "210.8 General Note",
+      "summary": "AFCI/GFCI manufacturer listing supersession: A Nationally Recognized Testing Laboratory (NRTL) manufacturer's listing regarding the use of AFCI and/or GFCI protection for appliances, people, and property may be allowed to supersede NEC requirements under the following conditions: supporting documents are submitted to the AHJ, additional labeling is provided, a single receptacle is utilized where applicable, the replacement of that appliance or alteration of the branch circuit will require compliance with the current NEC, and a NEMA unwanted tripping report form is filed with the manufacturer. Nuisance or unwanted tripping will be handled by the AHJ on a case-by-case basis."
+    },
+    {
+      "article": "210.12(D)(2)",
+      "summary": "AFCI branch circuit extensions — Exception added: AFCI protection shall not be required where the extension of existing conductors is used solely to hardwire single station smoke and/or CO alarms in an existing dwelling or dormitory unit."
+    },
+    {
+      "article": "230.70(A)(1)",
+      "summary": "Service disconnect location — deleted and replaced: The service disconnecting means shall be installed at a readily accessible location either outside of a building or structure, or inside a building or structure nearest the point of entrance of the service conductors, not to exceed 10 feet of conductor length from the point of entrance. A service disconnect can serve as the emergency disconnect if properly labeled as 'Emergency Service Disconnect.' Emergency Service Disconnects without overcurrent protection shall be limited to the 10-foot rule."
+    },
+    {
+      "article": "334.10(3)",
+      "summary": "NM cable in Type III, IV, and V construction — Exception added: The 15-minute finish rating shall not be required in buildings or portions of buildings that are not required to be of fire resistance construction."
+    },
+    {
+      "article": "334.12(A)(2)",
+      "summary": "Deleted in its entirety. Vermont removes the prohibition on NM cable use applicable under 334.12(A)(2). NM cable is permitted in two-family dwellings in Vermont."
+    },
+    {
+      "article": "518.6",
+      "summary": "Assembly occupancies — illumination: Deleted and replaced. (A) Illumination shall be provided for all working spaces about fixed service equipment, switchboards, switchgear, panelboards, or motor control centers installed outdoors that serve assembly occupancies. Control by automatic means only shall not be permitted. Additional lighting outlets shall not be required where the workspace is illuminated by an adjacent light source. (B) Illumination of Means of Egress: Lighting circuits and illumination of means of egress shall be provided in accordance with Section 7.8 of the Life Safety Code (NFPA 101) as adopted under the Vermont Fire & Building Safety Code."
+    },
+    {
+      "article": "NFPA 73 - Section 5.1",
+      "summary": "Inspections of existing dwellings — GFCI requirements revised: GFCI requirements for existing dwellings shall follow 2023 NEC 210.8(A)(1)-(10), applying to 125-volt 15- and 20-amp receptacles only. All existing 250-volt receptacles are exempted until branch circuits are modified or replaced. Nuisance tripping addressed by AHJ case-by-case. Exception No. 1: Laundry area GFCI protection follows the within-6-feet-of-washing-machine-or-sink requirement; does not include existing 250-volt dryer receptacles until the receptacle is replaced or the branch circuit is modified. Exception No. 2: Existing finished basement receptacles — AFCI protection per 2023 NEC 210.12(A)(1)-(6) shall not be required to be added until the branch circuit is modified, extended, or receptacles are replaced."
+    }
+  ]
+}
