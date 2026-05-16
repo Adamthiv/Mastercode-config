@@ -1,0 +1,134 @@
+{
+  "state": "CT",
+  "stateName": "Connecticut",
+  "necCycle": "2023",
+  "effectiveDate": "2026-07-01",
+  "source": "2026 Connecticut State Building Code - Amendments to the 2023 NFPA 70, National Electrical Code (Issued for Public Comment August 28, 2025)",
+  "note": "Currently under 2022 CSBC (2020 NEC). This file reflects the incoming 2026 CSBC (2023 NEC base) effective July 1, 2026. App should display pending status until effective date.",
+  "amendments": [
+    {
+      "article": "90.2(C) and (D)",
+      "summary": "Scope expanded to include: installations supplying shore power to ships and watercraft in marinas and boatyards including monitoring of leakage current; and installations used to export electric power from vehicles to premises wiring or for bidirectional current flow. Installations not covered clarified to exclude communications equipment under exclusive control of communications utilities located outdoors or in building spaces used exclusively for such installations."
+    },
+    {
+      "article": "90.2(F)",
+      "summary": "Special permission: The State Building Inspector may grant an exception for the installation of conductors and equipment not under exclusive control of electric utilities that connect the utility supply system to service-entrance conductors, provided such installations are outside a building or terminate immediately inside a building wall."
+    },
+    {
+      "article": "90.4",
+      "summary": "Enforcement authority is the State Building Inspector for interpreting rules and granting special permission. Administration is in accordance with Chapter 1 of the 2024 IBC portion of the Connecticut State Building Code. Interpretations requested verbally or in writing from the Office of the State Building Inspector. Special permission requested in writing using the Request for Modification form. Where the Code contains requirements for a new product or material with an effective date after the adoption date of the Connecticut State Building Code, those requirements are not part of this Code."
+    },
+    {
+      "article": "100 - Authority Having Jurisdiction",
+      "summary": "Revised definition: The local building official has responsibility for approving construction documents, issuing permits, approving materials and procedures, and making inspections. The State Building Inspector has responsibility for administering and interpreting the Connecticut State Building Code and granting exceptions from specific rules."
+    },
+    {
+      "article": "100 - Special Permission",
+      "summary": "Revised definition: For the purposes of this code, the authority having jurisdiction for granting special permission is the State Building Inspector."
+    },
+    {
+      "article": "110.3(B)",
+      "summary": "Equipment that is listed, labeled, or identified for a use shall be installed and used in accordance with any instructions included in the listing, labeling, or identification, and such instructions shall result in an installation that complies with the requirements within this code. Instructions may be provided as printed material, QR code, or internet address for downloadable instructions."
+    },
+    {
+      "article": "210.8(A)(12)",
+      "summary": "GFCI protection required in dwelling units at indoor damp or wet locations. Language revised from 'and' to 'or' — protection required at indoor damp or wet locations. This change aligns with a Tentative Interim Amendment (TIA) to the 2023 NFPA 70 issued by NFPA."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlet GFCI for dwellings: All outdoor outlets supplied by single-phase branch circuits rated 150 volts or less to ground, 50 amperes or less, shall be provided with GFCI protection, including outlets in: (1) Garages at or below grade, (2) Accessory buildings, (3) Boathouses. If equipment supplied by a covered outlet is replaced, GFCI protection required. Exception No. 1: Not required on lighting outlets other than those in 210.8(C). Exception No. 2: Not required for mini-split-type HVAC equipment and other HVAC units employing power conversion equipment to control compressor speed (no expiration date). Note: CT retains the 50-ampere threshold — does not reduce to 20A like NH."
+    },
+    {
+      "article": "210.52(C)(2)",
+      "summary": "Island and Peninsular Countertops: Receptacle outlets, if installed to serve an island or peninsular countertop or work surface, shall be installed in accordance with 210.52(C)(3). The requirement to provide for a future addition of a receptacle outlet has been deleted."
+    },
+    {
+      "article": "210.52(C)(3)",
+      "summary": "Receptacle outlet location for countertops: Outlets shall be permitted but not required to be located in one or more of the following: (1) On or above, but not more than 20 in. above, a countertop or work surface; (2) In a countertop using receptacle outlet assemblies listed for use in countertops; (3) In a work surface using assemblies listed for use in work surfaces or countertops; (4) Below countertop or work surfaces, flush or surface mounted on base cabinet, not more than 12 inches below the countertop measured from top surface edge. Receptacles installed below a countertop shall not be located where the countertop extends more than 6 inches beyond the face of the receptacle. Outlets rendered not readily accessible by appliances fastened in place, appliance garages, sinks, or rangetops shall not be considered as the required outlets."
+    },
+    {
+      "article": "230.46",
+      "summary": "Spliced and Tapped Conductors: Service-entrance conductors shall be permitted to be spliced or tapped in accordance with 110.14, 300.5(E), 300.13, and 300.15. Power distribution blocks, pressure connectors, and devices for splices and taps shall be listed."
+    },
+    {
+      "article": "230.85",
+      "summary": "Emergency Disconnects: For new one- and two-family dwelling units, an emergency disconnecting means shall be installed. Section 230.85(C) Replacement deleted in its entirety — the replacement trigger for emergency disconnects does not apply in Connecticut."
+    },
+    {
+      "article": "250.50",
+      "summary": "Grounding Electrode System: All grounding electrodes described in 250.52(A)(1) through (A)(7) available at each building or structure served shall be bonded together. Exception: Concrete-encased electrodes of existing buildings shall not be required to be part of the grounding electrode system if the rebar is not accessible without disturbing the concrete."
+    },
+    {
+      "article": "250.52(A)(3)",
+      "summary": "Concrete-Encased Electrode: Shall consist of at least 20 ft of: (1) one or more bare or zinc galvanized or electrically conductive coated rebar not less than 1/2 in. diameter, installed in one continuous 20 ft length or multiple pieces connected by steel tie wires, exothermic welding, welding, or other effective means; or (2) bare copper conductor not smaller than 4 AWG. Metal components shall be encased by at least 2 in. of concrete located horizontally within a concrete footing in direct contact with earth, or within vertical foundations or structural members in direct contact with earth. Where multiple concrete-encased electrodes are present, only one is required to be bonded into the grounding electrode system."
+    },
+    {
+      "article": "250.68(C)",
+      "summary": "Grounding electrode conductor connections: (1) Interior metal water piping electrically continuous with a metal underground water pipe electrode located not more than 5 ft from point of entrance may extend the connection to an electrode. Piping more than 5 ft from entrance shall not be used to interconnect grounding electrodes. Exception for industrial, commercial, and institutional buildings with qualified persons: piping more than 5 ft from entrance may be used as bonding conductor or grounding electrode conductor if entire exposed length (except short sections through walls/floors/ceilings) is exposed. (2) Metal structural frame of a building may be used as a conductor to interconnect grounding electrodes. Hold-down bolts securing structural steel columns connected to a concrete-encased electrode in the support footing may connect the metal structural frame to the concrete-encased electrode via welding, exothermic welding, steel tie wires, or other approved means. (3) A rebar-type concrete-encased electrode with an additional rebar section extended to an accessible, corrosion-protected location may be used for connection of grounding electrode conductors and bonding jumpers, subject to specific continuity and corrosion protection conditions."
+    },
+    {
+      "article": "300.4.1",
+      "summary": "New section added - Drilling and Notching of structural members: (1) Solid sawn lumber: Notches shall not exceed 1/6 of member depth, not longer than 1/3 of depth, and not in middle 1/3 of span. End notches shall not exceed 1/4 of depth. Tension side of members 4 in. or greater nominal thickness shall not be notched except at ends. Hole diameter shall not exceed 1/3 of member depth; holes shall not be closer than 2 in. to top or bottom or to any other hole. (2) Engineered wood products: Cuts, notches and holes in trusses, structural composite lumber, glue-laminated members or I-joists are prohibited except where permitted by manufacturer's recommendations or by a registered design professional. (3) Studs: Exterior wall or interior bearing partition studs may be notched up to 25% of width. Non-bearing interior partition studs may be notched up to 40% of width. Any stud may be bored up to 40% of width if edge of hole is not closer than 5/8 in. to stud edge and not in same section as a notch. (4) Top plates: Where notching exceeds 50% of width, a galvanized metal tie not less than 0.054 in. thick and 1.5 in. wide shall be fastened across the plate at each side of the opening with not less than eight 10d nails at each side, extending minimum 6 in. past the opening."
+    },
+    {
+      "article": "300.4(I)",
+      "summary": "New section added - Conductors and Wiring Methods Subject to Water, Fire, or Overheating: Conductors and wiring methods subject to water, fire, or overheating shall be evaluated for damage. References NEMA GD 1-2019 for water-damaged equipment and NEMA GD 2-2021 for fire- and heat-damaged equipment."
+    },
+    {
+      "article": "314.27(C)",
+      "summary": "Boxes at ceiling-suspended fan outlets: Outlet boxes used as sole support of a ceiling-suspended fan shall be listed, marked on the interior as suitable for this purpose, and shall not support fans weighing more than 70 lb. Boxes for fans over 35 lb shall be marked with maximum weight. Outlet boxes mounted in family rooms, living rooms, parlors, libraries, dens, bedrooms, sunrooms, recreation rooms and similar areas of dwelling occupancies in locations typical for a ceiling fan shall be installed to: (1) be listed for sole support of ceiling-suspended fans, or (2) allow direct access through the box to structural framing capable of supporting a ceiling fan without removing the box."
+    },
+    {
+      "article": "440.14",
+      "summary": "AC disconnect location — Exception No. 3 added: Where the interior section of a factory packaged split system is fed solely from the exterior section and the disconnecting means for the exterior section is capable of being locked in the open position, a separate disconnecting means for the interior section shall not be required within sight from that section. Provisions for locking shall remain in place with or without the lock installed."
+    },
+    {
+      "article": "517.13(B)",
+      "summary": "Equipment grounding conductors in patient care spaces: The following shall be directly connected to an insulated copper equipment grounding conductor identified by green insulation along its entire length installed with branch circuit conductors: (1) grounding terminals of all receptacles other than isolated ground receptacles; (2) metal outlet boxes, device boxes, or metal enclosures; (3) all non-current-carrying conductive surfaces of fixed electrical equipment likely to become energized operating at over 100 volts; (4) metal faceplates via metal mounting screws securing faceplate to metal yoke or strap or to metal outlet box. Exception No. 1: An insulated equipment bonding jumper that directly connects to the equipment grounding conductor is permitted to connect the box and receptacle(s) to the equipment grounding conductor for other than isolated ground receptacles."
+    },
+    {
+      "article": "525.5(B)(2)",
+      "summary": "Overhead conductor clearances at carnivals and fairs — Exception added: Tents erected and dismantled under the supervision of a licensed electrician or other person approved by the AHJ may be placed within the 15-foot space provided the finished height of the tent is a minimum of 10 feet below the conductors."
+    },
+    {
+      "article": "680.4",
+      "summary": "Deleted in its entirety without substitution. CT does not adopt the provision allowing the AHJ to require periodic inspection and testing of pool installations."
+    },
+    {
+      "article": "700.3(D)",
+      "summary": "Record Keeping for emergency systems: A written record shall be kept of tests and maintenance and made available to those authorized to design, install, inspect, maintain, and operate the system."
+    },
+    {
+      "article": "700.3(F)",
+      "summary": "Deleted in its entirety without substitution. Temporary Source of Power for Maintenance or Repair of the Alternate Source of Power is not adopted in Connecticut."
+    },
+    {
+      "article": "700.7(A)",
+      "summary": "Emergency source signs: A sign shall be placed at the service-entrance equipment, at the meter location, and on any equipment up to the service-entrance equipment, indicating type and location of on-site emergency power sources. Exception: Not required for individual unit equipment as specified in 700.12(I)."
+    },
+    {
+      "article": "701.3(B) and (D)",
+      "summary": "Legally required standby systems: (B) Systems shall be tested periodically to ensure maintained in proper operating condition. (D) A written record shall be kept of tests and maintenance and made available to those authorized to design, install, inspect, maintain, and operate the system."
+    },
+    {
+      "article": "701.7(A)",
+      "summary": "Legally required standby source signs: A sign shall be placed at the service entrance, at the meter location, and on any equipment up to the service-entrance equipment, indicating type and location of on-site legally required standby power sources. Exception: Not required for individual unit equipment as specified in 701.12(J)."
+    },
+    {
+      "article": "702.7(A)",
+      "summary": "Optional standby source signs: A sign shall be placed at the service-entrance equipment, at the meter location, and on any equipment up to the service-entrance equipment indicating type and location of on-site optional standby power sources. For one- and two-family dwelling units, a sign shall also be placed at the disconnecting means required in 230.85 indicating the location of each permanently installed on-site optional standby power source disconnect or means to shut down the prime mover per 445.19(C)."
+    },
+    {
+      "article": "706.20(B)(1)",
+      "summary": "Energy Storage Systems (ESS) location restrictions: ESS shall not be installed in sleeping rooms, closets, or spaces opening directly into sleeping rooms. Permitted locations: (1) Detached garages and detached accessory structures; (2) Attached garages separated from the dwelling unit per IRC R302.6; (3) Outdoors or on exterior side of exterior walls not less than 3 ft from doors and windows directly entering the dwelling unit, except where smaller separation is permitted by UL 9540 listing and manufacturer's instructions; (4) Enclosed utility closets, basements, storage or utility spaces within dwelling units with finished or noncombustible walls and ceilings — unfinished wood-framed construction shall have not less than 5/8-in. Type X gypsum wallboard, openings into the dwelling shall have solid wood doors not less than 1-3/8 in. thick, solid or honeycomb-core steel doors not less than 1-3/8 in. thick, or doors with a 20-minute fire protection rating, all self-latching with self-closing or automatic-closing devices; (5) Other locations as permitted by the Connecticut State Building Code."
+    },
+    {
+      "article": "708.6(A), (B), and (D)",
+      "summary": "Critical operations power systems testing and maintenance: (A) The AHJ shall conduct or witness a test of the complete system upon installation. (B) Systems shall be tested periodically to ensure maintained in proper operating condition. (D) A written record shall be kept of tests and maintenance and made available to those authorized to design, install, inspect, maintain, and operate the system."
+    },
+    {
+      "article": "725.60(C)",
+      "summary": "Class 2 and Class 3 circuit power source marking: Equipment supplying the circuits shall be durably marked where plainly visible to indicate each circuit that is Class 2 or Class 3. Power sources for limited power circuits in 725.121(A)(3) and (A)(4) shall have a label indicating maximum voltage and rated current output per conductor for each connection point. Where multiple connection points have the same rating, a single label is permitted. Labeling applies to equipment with rated current per conductor of 0.3 amperes or greater."
+    }
+  ]
+}
