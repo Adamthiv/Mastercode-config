@@ -1,0 +1,173 @@
+{
+  "state": "OR",
+  "stateName": "Oregon",
+  "necCycle": "2023",
+  "effectiveDate": "2023-10-01",
+  "source": "Oregon Electrical Specialty Code (OESC) 2023, Table 1-E. OAR 918-305-0105. Effective October 1, 2023. Amended to include errata January 1, 2025. Amended January 1, 2026. Oregon Building Codes Division, Department of Consumer and Business Services.",
+  "amendments": [
+    {
+      "article": "90.4(C)",
+      "summary": "Special permission must be requested in writing to the authority having jurisdiction and must be granted in writing prior to the start of the electrical installation."
+    },
+    {
+      "article": "90.4(D)",
+      "summary": "Listed or labeled products: Where the NEC requires electrical products to be 'listed' or 'labeled', those words shall have the same meaning as 'certified electrical product' under ORS 479.530. Occupancy classification and use designations shall be established per the Oregon Structural Specialty Code (OSSC). The electrical datum plane throughout the OESC shall be the Design Flood Elevation as determined by the flood plain administrator per the OSSC or Oregon Residential Specialty Code (ORSC) as applicable."
+    },
+    {
+      "article": "100 - Definitions",
+      "summary": "Oregon adds several definitions: Alcoves (an area extending from a common wall of hallways, foyers, entries, and landings with depth not less than 2 ft and length not less than 3 ft); Dormitory Unit (group sleeping accommodations for more than 16 persons — OR's definition differs from base 2023 NEC); Electrical Datum Plane; Fire Protection System; Separate Branch Circuit; Structure (that which is built or constructed other than equipment or a post/pole with attached meter base); Servicing (following manufacturer's instructions or applicable industry standards to analyze, adjust, or perform prescribed actions to preserve or restore operational performance)."
+    },
+    {
+      "article": "110.3(A)(8)",
+      "summary": "Examination: Cybersecurity for network-connected life safety equipment added as a consideration. Permit holder is not required to demonstrate compliance with this item."
+    },
+    {
+      "article": "110.10",
+      "summary": "Circuit impedance and fault current: Exception No. 1 added: A temporary service may be energized without demonstrating compliance with this section, applied at the discretion of the supervising electrician. Exception No. 2 added: Fault-current values provided by the serving utility may be used to satisfy the labeling requirements."
+    },
+    {
+      "article": "110.14(D)",
+      "summary": "Terminal connection torque: Tightening torque values shall be as indicated on equipment or in manufacturer installation instructions. An approved means shall be used to achieve the indicated torque. Permit holder is not required to demonstrate compliance."
+    },
+    {
+      "article": "110.17",
+      "summary": "Servicing and maintenance of used electrical equipment by qualified persons trained in servicing and maintenance shall be permitted, performed in accordance with original equipment manufacturer's instructions and applicable industry standards, using identified replacement parts verified under applicable product standards provided by the OEM, designed by a qualified engineer, or approved by the AHJ."
+    },
+    {
+      "article": "110.20",
+      "summary": "Reconditioned equipment shall be permitted except where prohibited elsewhere in the Code. Equipment restored to operating condition shall be reconditioned with identified replacement parts verified under applicable standards, provided by the OEM, designed by a qualified engineer, or selected by the supervising electrician."
+    },
+    {
+      "article": "110.24(A)",
+      "summary": "Available fault current field marking: Exception No. 1: Temporary service may be energized without compliance at discretion of supervising electrician. Exception No. 2: Fault-current values from serving utility may satisfy labeling requirements."
+    },
+    {
+      "article": "110.24(B)",
+      "summary": "Modifications exception: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "110.26(C)(3)",
+      "summary": "Personnel doors: Where equipment rated 800 amperes or more containing overcurrent, switching, or control devices is installed in structures other than one- and two-family dwellings and individual multifamily units, and a personnel door is less than 25 ft from the nearest edge of the working space, the door shall open at least 90 degrees in the direction of egress and be equipped with listed panic hardware or listed fire exit hardware."
+    },
+    {
+      "article": "110.26(D)",
+      "summary": "Illumination: 10-foot candles average measured at the floor shall be provided for all working spaces about service equipment, switchboards, switchgear, enclosed panelboards, or motor control centers installed indoors. Control by automatic means shall not be permitted to control all illumination within working spaces."
+    },
+    {
+      "article": "210.8(A)",
+      "summary": "GFCI dwelling units amended: (5) Changed from 'unfinished portions or areas of basements not intended as habitable rooms' to simply 'Basements' — all basements required. (6) Kitchens: Oregon limits to 'where the receptacles are installed to serve the countertop surfaces' rather than base 2023 NEC blanket kitchen requirement. (7) 'Areas with sinks and permanent provisions for food preparation, beverage preparation, or cooking' — NOT adopted by Oregon. Exception No. 2 added: Security system receptacle exempt if labeled 'not GFCI protected.' Exception No. 5 added: For locations in (A)(2), (5), (6), (8), and (11), GFCI not required for a single receptacle serving an appliance or duplex receptacle serving two appliances if: the appliance is in a dedicated space, not easily moved or fastened in place, and the receptacle is labeled 'not GFCI protected.'"
+    },
+    {
+      "article": "210.8(B)",
+      "summary": "GFCI other than dwelling units: Exception No. 7 added: GFCI not required for a single receptacle in indoor locations serving aquariums and similar open aquatic vessels if labeled 'not GFCI protected.' Exception No. 8 added: GFCI not required for a single receptacle serving an appliance or duplex serving two appliances in laundry areas if appliance is in dedicated space, not easily moved or fastened in place, and labeled 'not GFCI protected.'"
+    },
+    {
+      "article": "210.8(C)",
+      "summary": "Oregon adds: GFCI protection shall be provided for lighting outlets not exceeding 120 volts installed in crawl spaces at or below grade level."
+    },
+    {
+      "article": "210.8(D)",
+      "summary": "Specific appliance GFCI: Oregon redirects to 422.5 rather than maintaining the 2023 NEC list within 210.8(D). The list of 12 required appliances is removed from this section."
+    },
+    {
+      "article": "210.8(E)",
+      "summary": "Equipment requiring servicing: Exception added: Receptacles installed indoors in dwelling units to meet this requirement shall not be required to be GFCI protected, unless otherwise required in 210.8(A) or 210.8(C)."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI for dwellings: Oregon amends to 'all outdoor general-purpose receptacles outlets' — same locations (garages at grade, accessory buildings, boathouses), 50 amperes or less. Exception No. 1: Not required on lighting outlets other than those in 210.8(C). Exception No. 2: Not required for listed HVAC equipment — this exception expires September 1, 2026. Informational Note added: This requirement does not apply to specific-use receptacles regulated by other code sections such as 551.71."
+    },
+    {
+      "article": "210.12(B)",
+      "summary": "AFCI dwelling units: Item (14) 'Similar areas' — not adopted by Oregon. Item (15) 'Alcoves' — adopted. Exception No. 1: AFCI not required for individual branch circuit supplying a fire alarm system per 760.41(B) or 760.121(B) when installed in metal raceway, metal auxiliary gutter, or steel-armored cable with metal boxes. Exception No. 2: AFCI not required on branch circuits supplying receptacles in hallways, kitchens or laundry areas, and GFCI-protected receptacles in dining rooms. Exception No. 3: AFCI not required for optional dedicated outlets supplying equipment known to cause unwanted AFCI tripping. Exception No. 4: AFCI not required for branch circuits serving an appliance that is not easily moved or is fastened in place."
+    },
+    {
+      "article": "210.12(C)",
+      "summary": "AFCI dormitory units: Items (5) Bathrooms and (6) Similar rooms — not adopted by Oregon. Item (7) Study areas — adopted."
+    },
+    {
+      "article": "210.12(D)",
+      "summary": "AFCI other occupancies: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "210.12(E)",
+      "summary": "AFCI branch circuit extensions/modifications: Exception No. 1: Extensions or modifications of existing circuits shall not require installation of AFCI protection. Exception No. 2: Replacement or upgrading of a service or panelboard shall not require that existing circuits be protected by AFCI devices."
+    },
+    {
+      "article": "210.52(D)",
+      "summary": "Bathroom receptacles: Oregon specifies that receptacles shall be located on a wall or partition adjacent to the sink or sink countertop, on the countertop, or on the side or face of the sink cabinet, and in no case more than 12 in. below the top of the sink or countertop. Receptacle outlet assemblies listed for countertops are permitted."
+    },
+    {
+      "article": "210.52(E)(3)",
+      "summary": "Balconies, decks, and porches: Exception No. 1: Decks or porches at grade level with area less than 20 sq ft do not require an additional receptacle. Exception No. 2: Decks or porches above grade level with depth 1 ft or less from outside wall to outside of framing do not require an additional receptacle."
+    },
+    {
+      "article": "210.52(I)",
+      "summary": "Foyers: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "210.52(J)",
+      "summary": "Oregon adds: Alcoves — In dwelling units, alcoves shall have at least one receptacle installed. These outlets are in addition to required hallway outlets."
+    },
+    {
+      "article": "210.63",
+      "summary": "HVAC servicing receptacles: Exception No. 1: A receptacle outlet shall not be required at one- and two-family dwellings for the service of evaporative coolers. Exception No. 2: An additional receptacle outlet shall not be required when replacing existing HVAC equipment if a receptacle outlet is located on the same level and within 75 ft."
+    },
+    {
+      "article": "210.65",
+      "summary": "Meeting rooms: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "215.15",
+      "summary": "Barriers: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "215.18",
+      "summary": "Surge protection (feeders): Not adopted by the State of Oregon."
+    },
+    {
+      "article": "225.41",
+      "summary": "Emergency disconnects (outside branch circuits and feeders): Not adopted by the State of Oregon."
+    },
+    {
+      "article": "225.42",
+      "summary": "Surge protection (outside feeders): Not adopted by the State of Oregon."
+    },
+    {
+      "article": "230.46",
+      "summary": "Spliced and tapped service conductors: Power distribution blocks installed on service conductors shall be marked 'suitable for use on the line side of the service equipment' or equivalent. Pressure connectors and devices for splices and taps installed on service conductors shall also be marked 'suitable for use on the line side of the service equipment.'"
+    },
+    {
+      "article": "230.67",
+      "summary": "Surge protection (services): Not adopted by the State of Oregon."
+    },
+    {
+      "article": "230.70(A)(1)",
+      "summary": "Service disconnect location: Exception added for existing installations where service panel or meter base is being replaced — the panel and service disconnecting means may remain at the existing location if existing service conductors are of sufficient ampacity (or conduit large enough for new conductors), and 110.26 and 240.24 requirements are met with specific relaxations for installations made prior to July 1, 1978 (working space reduced to 30 in.), prior to July 1, 1993 (240.24(E) doesn't apply), or prior to July 1, 1996 (240.24(F) doesn't apply)."
+    },
+    {
+      "article": "230.71(B)",
+      "summary": "Two to six service disconnecting means: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "230.85",
+      "summary": "Emergency disconnects: Not adopted by the State of Oregon."
+    },
+    {
+      "article": "250.52(A)(3)",
+      "summary": "Concrete-encased electrode: Where an addition to a building or structure is remote from the service and the integrity of the grounding electrode system has been verified, connection of the remote concrete-encased electrode is not required."
+    },
+    {
+      "article": "250.52(B)",
+      "summary": "Not permitted for use as grounding electrodes: Oregon adds (4): In existing electrical installations, when a service change or upgrade occurs, an existing metal underground water pipe shall not be used unless verified as suitable for continued use. It shall be bonded to the new grounding electrode system as required by 250.104(A)."
+    },
+    {
+      "article": "250.53(A)(2)",
+      "summary": "Supplemental electrode: Exception No. 2 added: A supplemental electrode shall not be required for a single-phase, 200 amps or less temporary service."
+    },
+    {
+      "article": "250.118(A)(14)",
+      "summary": "Equipment grounding conductors: Surface metal raceways listed for grounding are permitted. Where metallic conduit is installed on rooftops, an equipment grounding conductor shall be provided within the raceway and sized per 250.122."
+    }
+  ]
+}
