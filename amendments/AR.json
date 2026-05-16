@@ -1,0 +1,13 @@
+{
+  "state": "AR",
+  "stateName": "Arkansas",
+  "necCycle": "2020",
+  "effectiveDate": "2024-04-24",
+  "source": "Arkansas Board of Electrical Examiners, Administrative Rules Rule 010.13-008 - The National Electrical Code. Arkansas Department of Labor and Licensing.",
+  "amendments": [
+    {
+      "article": "210.12",
+      "summary": "AFCI protection amended: Arc fault circuit interrupters (AFCIs) shall not be required in kitchens and laundry rooms. AFCI protection remains required in all other 2020 NEC-specified locations including bedrooms, family rooms, dining rooms, living rooms, parlors, libraries, dens, sunrooms, recreation rooms, closets, hallways, bathrooms, garages, and unfinished basements."
+    }
+  ]
+}
