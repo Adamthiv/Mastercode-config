@@ -1,0 +1,22 @@
+{
+  "state": "IA",
+  "stateName": "Iowa",
+  "necCycle": "2023",
+  "effectiveDate": "2025-07-01",
+  "source": "Iowa Administrative Rules ARC 9033C, Iowa Department of Inspections, Appeals, and Licensing, Electrical Examining Board. Rule 661-550.3(103). Adopted February 20, 2025, effective July 1, 2025.",
+  "note": "Nine of ten public comments received during rulemaking requested adoption of 2023 NEC without amendment, specifically objecting to the modifications to 210.8(A), 210.8(D), and 210.8(F). The Board adopted the amendments as proposed with no changes.",
+  "amendments": [
+    {
+      "article": "210.8(A)",
+      "summary": "GFCI for dwelling units — deleted and replaced with modified list. Iowa replaces the 2023 NEC 210.8(A)(1)-(12) with a 12-location list that differs in scope: (1) Bathrooms, (2) Garages and accessory buildings at or below grade not intended as habitable rooms limited to storage, work, or similar areas, (3) Outdoors, (4) Crawl spaces at or below grade level, (5) Basements, (6) Kitchens, (7) Areas with sinks and permanent provisions for food preparation, beverage preparation, or cooking, (8) Sinks where receptacles are within 6 ft of the top inside edge of the bowl, (9) Boathouses, (10) Bathtubs or shower stalls where receptacles are within 6 ft of the outside edge, (11) Laundry areas, (12) Indoor damp and wet locations. Key difference from base 2023 NEC: Iowa removes the distance qualifier from the laundry areas entry and modifies the kitchen/sink language."
+    },
+    {
+      "article": "210.8(D)",
+      "summary": "Specific appliance GFCI — deleted and replaced with reduced list. Iowa replaces 210.8(D) with 8 required appliances: (1) Automotive vacuum machines, (2) Drinking water coolers and bottle fill stations, (3) High-pressure spray washing machines, (4) Tire inflation machines, (5) Vending machines, (6) Sump pumps, (7) Dishwashers, (8) Microwave ovens. Notable omissions from base 2023 NEC: electric ranges, wall-mounted ovens, counter-mounted cooking units, and clothes dryers are NOT required in Iowa."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlet GFCI for dwellings — deleted in its entirety. Iowa does not adopt 2023 NEC 210.8(F). There is no statewide Iowa requirement for GFCI protection on outdoor outlets at dwelling garages at grade, accessory buildings, or boathouses under this section. Note: Outdoor locations that are covered under 210.8(A) (such as outdoors generally) still apply."
+    }
+  ]
+}
