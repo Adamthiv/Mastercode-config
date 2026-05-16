@@ -13,7 +13,7 @@
     { "code": "GA", "name": "Georgia", "necCycle": "2023", "localAdoption": false },
     { "code": "HI", "name": "Hawaii", "necCycle": "2020", "localAdoption": false },
     { "code": "ID", "name": "Idaho", "necCycle": "2023", "localAdoption": false },
-    { "code": "IL", "name": "Illinois", "necCycle": "2017", "localAdoption": true },
+    { "code": "IL", "name": "Illinois", "necCycle": "2008", "localAdoption": true, "splitCycle": true, "residential": "2008", "commercial": "2008", "chicago": "2017" }
     { "code": "IN", "name": "Indiana", "necCycle": "2017", "residential": "2017", "commercial": "2008", "localAdoption": false, "splitCycle": true },
     { "code": "IA", "name": "Iowa", "necCycle": "2023", "localAdoption": false },
     { "code": "KS", "name": "Kansas", "necCycle": "2023", "localAdoption": true },
@@ -32,7 +32,7 @@
     { "code": "NH", "name": "New Hampshire", "necCycle": "2020", "localAdoption": false },
     { "code": "NJ", "name": "New Jersey", "necCycle": "2020", "localAdoption": false },
     { "code": "NM", "name": "New Mexico", "necCycle": "2020", "localAdoption": false },
-    { "code": "NY", "name": "New York", "necCycle": "2023", "localAdoption": false },
+    { "code": "NY", "name": "New York", "necCycle": "2023", "localAdoption": false, "splitCycle": true, "residential": "2023", "commercial": "2023", "nyc": "2020" },
     { "code": "NC", "name": "North Carolina", "necCycle": "2020", "localAdoption": false },
     { "code": "ND", "name": "North Dakota", "necCycle": "2023", "localAdoption": false },
     { "code": "OH", "name": "Ohio", "necCycle": "2023", "localAdoption": false },
