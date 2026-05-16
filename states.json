@@ -2,7 +2,7 @@
   "states": [
     { "code": "AL", "name": "Alabama", "necCycle": "2020", "localAdoption": false },
     { "code": "AK", "name": "Alaska", "necCycle": "2020", "localAdoption": false },
-    { "code": "AZ", "name": "Arizona", "necCycle": "2017", "localAdoption": true },
+    { "code": "AZ", "name": "Arizona", "necCycle": "2023", "localAdoption": true },
     { "code": "AR", "name": "Arkansas", "necCycle": "2020", "localAdoption": false },
     { "code": "CA", "name": "California", "necCycle": "2023", "localAdoption": false },
     { "code": "CO", "name": "Colorado", "necCycle": "2023", "localAdoption": false },
@@ -25,7 +25,7 @@
     { "code": "MI", "name": "Michigan", "necCycle": "2023", "residential": "2017", "commercial": "2023", "localAdoption": false, "splitCycle": true },
     { "code": "MN", "name": "Minnesota", "necCycle": "2023", "localAdoption": false },
     { "code": "MS", "name": "Mississippi", "necCycle": "2020", "localAdoption": true },
-    { "code": "MO", "name": "Missouri", "necCycle": "2020", "localAdoption": true },
+    { "code": "MO", "name": "Missouri", "necCycle": "2023", "localAdoption": true },
     { "code": "MT", "name": "Montana", "necCycle": "2020", "localAdoption": false },
     { "code": "NE", "name": "Nebraska", "necCycle": "2023", "localAdoption": false },
     { "code": "NV", "name": "Nevada", "necCycle": "2017", "localAdoption": false },
