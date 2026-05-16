@@ -1,0 +1,61 @@
+{
+  "state": "ME",
+  "stateName": "Maine",
+  "necCycle": "2023",
+  "effectiveDate": "2024-07-01",
+  "source": "Maine Electricians' Examining Board, Chapter 120: Electrical Installation Standards. 02-318 CMR Chapter 120, effective July 1, 2024 (filing 2024-142).",
+  "amendments": [
+    {
+      "article": "90.4(D)",
+      "summary": "New Products, Constructions or Materials: Where this Code requires new products, constructions, or materials that may not yet be available at the time of adoption, the authority having jurisdiction may permit the use of products, constructions, or materials that comply with the previous two editions of the Code adopted by the jurisdiction."
+    },
+    {
+      "article": "100 - Dormitory Unit",
+      "summary": "Definition of Dormitory Unit adopted as amended: A building or a space in a building in which group sleeping accommodations are provided for any number of persons who are not members of the same family in one room, or a series of closely associated rooms, under joint occupancy and single management, with or without meals, but without individual cooking facilities."
+    },
+    {
+      "article": "210.8(A)(6)",
+      "summary": "Dwelling unit kitchen GFCI amended: GFCI protection required in kitchens, except for those specific appliances listed in 210.8(D)(8), (9), and (10). Maine carves out the specific appliances from the kitchen GFCI requirement rather than applying it blanket to all kitchen receptacles."
+    },
+    {
+      "article": "210.8(B)(2)",
+      "summary": "Other than dwelling units kitchen GFCI amended: GFCI protection required in kitchens of non-dwelling occupancies, except for those specific appliances listed in 210.8(D)(8), (9), and (10). Same appliance carve-out as dwelling units."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlet GFCI for dwellings: All outdoor outlets supplied by single-phase branch circuits rated 150 volts or less to ground, 50 amperes or less, shall be provided with GFCI protection, including outlets in: (1) Garages at or below grade, (2) Accessory buildings, (3) Boathouses. If equipment supplied by a covered outlet is replaced, GFCI protection required. Exception No. 1: Not required on lighting outlets other than those in 210.8(C). Exception No. 2: Not required for listed HVAC equipment — this exception expires September 1, 2026. Exception No. 3: Not required for sewer pumps. Exception No. 4: Not required for water pumps."
+    },
+    {
+      "article": "230.2(E)",
+      "summary": "Multiple services identification: Where a building or structure is supplied by more than one service, or any combination of branch circuits, feeders, and services, a permanent plaque or directory shall be installed at each service disconnect location and at each outside electrical meter location denoting all other services, feeders, and branch circuits supplying that building or structure and the area served by each. See 225.37."
+    },
+    {
+      "article": "230.85(B)",
+      "summary": "Emergency disconnects: Each disconnect shall be a service disconnect."
+    },
+    {
+      "article": "334.10(3)",
+      "summary": "NM cable in Type III, IV, and V construction: In buildings or structures with interior finished walls and/or ceilings, cables shall be concealed within walls, floors, or ceilings that provide a thermal barrier of material that has at least a 15-minute finish rating as identified in listings of fire-rated assemblies."
+    },
+    {
+      "article": "334.12(A)(2)",
+      "summary": "Deleted — not adopted by Maine. The prohibition on NM cable use under 334.12(A)(2) does not apply in Maine. NM cable is permitted in two-family dwellings in Maine."
+    },
+    {
+      "article": "338.12(B)",
+      "summary": "Underground Service-Entrance Cable (USE) — uses not permitted amended: Type USE cable shall not be used: (1) for interior wiring; (2) for aboveground installations except where USE cable emerges from the ground and terminates in an enclosure at an outdoor location and is protected per 300.5(D); (3) as aerial cable unless it is a multiconductor cable identified for aboveground use and installed as messenger-supported wiring per 225.10 and Part II of Article 396. Exception: Does not apply to USE cable that is dual-rated for interior wiring."
+    },
+    {
+      "article": "400.12(4)",
+      "summary": "Flexible cord attached to building surfaces — exception amended: Flexible cord and flexible cable shall be permitted to be attached to building surfaces in accordance with 368.56(B) and 590.4. Flexible cord and cable shall also be permitted to have one connection to the building surface for a suitable tension take-up device. Length of the cord or cable from the supply termination to the take-up device shall be limited to 6 ft (1.83 m). Strain relief cable grips shall be provided for the cord or cable at the equipment terminations."
+    },
+    {
+      "article": "406.9(C)",
+      "summary": "Receptacles in bathtub and shower space: Receptacles shall not be installed within or directly over a bathtub or shower stall."
+    },
+    {
+      "article": "702.4(A)(2)(a)",
+      "summary": "Optional standby system capacity — automatic load connection amended: For other than single-family dwellings, if the connection of load is automatic, the optional standby system shall comply with 702.4(A)(2)(a) or (A)(2)(b) per Parts I through IV of Article 220 or by another approved method. (a) Full Load: The standby source shall be capable of supplying the full load that is automatically connected."
+    }
+  ]
+}
