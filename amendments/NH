@@ -1,0 +1,85 @@
+{
+  "state": "NH",
+  "stateName": "New Hampshire",
+  "necCycle": "2023",
+  "effectiveDate": "2024-01-01",
+  "source": "NH RSA 319-C and NH Board of Electricians - 2023 NEC with State Amendments (BCRB EL-23 Series)",
+  "amendments": [
+    {
+      "article": "210.5(C)(1)",
+      "summary": "Where branch circuits are supplied from more than one nominal voltage system, each ungrounded conductor shall be identified by phase or line and system at all termination, connection, and splice points. Identification may be by separate color coding, marking tape, tagging, or other approved means. The method shall be documented and readily available or permanently posted at each panelboard or similar distribution equipment. Labels shall be of sufficient durability to withstand the environment and shall not be handwritten."
+    },
+    {
+      "article": "210.8(A)",
+      "summary": "Amended to add location (12): Indoor damp and wet locations. GFCI protection required for all 125-volt through 250-volt receptacles supplied by single-phase branch circuits rated 150 volts or less to ground, 60 amperes or less, installed in indoor damp and wet locations in dwelling units. Exception: GFCI protection not required where protection is already provided under 210.8(D)."
+    },
+    {
+      "article": "210.8(B)",
+      "summary": "Amended to add location (6): Indoor damp and wet locations. GFCI protection required for all 125-volt through 250-volt receptacles supplied by single-phase branch circuits rated 150 volts or less to ground, 50 amperes or less, and all receptacles supplied by three-phase branch circuits rated 150 volts or less to ground, 100 amperes or less, installed in indoor damp and wet locations in other than dwelling units."
+    },
+    {
+      "article": "210.8(D)",
+      "summary": "Expanded specific appliance GFCI list. GFCI protection required for branch circuits or outlets supplying the following appliances rated 150 volts or less to ground and 60 amperes or less, single- or 3-phase: (1) Automotive vacuum machines, (2) Drinking water coolers and bottle fill stations, (3) High-pressure spray washing machines, (4) Tire inflation machines, (5) Vending machines, (6) Sump pumps, (7) Dishwashers, (8) Electric ranges, (9) Wall-mounted ovens, (10) Counter-mounted cooking units, (11) Clothes dryers, (12) Microwave ovens."
+    },
+    {
+      "article": "210.8(E)",
+      "summary": "Deleted in its entirety. NH does not adopt the 2023 NEC requirement for GFCI protection at receptacles required by 210.63 (equipment servicing receptacles)."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Amended outdoor outlet GFCI threshold from 50 amperes to 20 amperes. For dwellings, all outdoor outlets supplied by 125-volt single-phase branch circuits rated 150 volts or less to ground, 20 amperes or less, shall be provided with GFCI protection, including outlets in: (1) Garages at or below grade, (2) Accessory buildings, (3) Boathouses. If equipment supplied by a covered outlet is replaced, the outlet shall be provided with GFCI protection. Exception No. 1: GFCI not required on lighting outlets other than those covered in 210.8(C). Exception No. 2: GFCI not required for listed HVAC equipment. This exception expires September 1, 2026."
+    },
+    {
+      "article": "210.12",
+      "summary": "Restructured AFCI requirements. New section (C) added - Dormitory Units: All 120-volt, single-phase, 10-, 15-, and 20-ampere branch circuits supplying outlets or devices in dormitory units shall be AFCI protected in: (1) through (4) unchanged, (5) Bathrooms. New section (D) added - Other Occupancies: All 120-volt, single-phase, 10-, 15-, and 20-ampere branch circuits supplying outlets or devices in the following locations shall be AFCI protected: (1) Guest rooms and guest suites of hotels and motels, (2) Areas used exclusively as patient sleeping rooms in nursing homes and limited-care facilities, (3) Areas designed for use exclusively as sleeping quarters in fire stations, police stations, ambulance stations, rescue stations, ranger stations, and similar locations. Section (E) - Branch Circuit Wiring Extensions, Modifications, or Replacements: Applies to areas specified in 210.12(B), (C), or (D)."
+    },
+    {
+      "article": "210.63(B)(2)",
+      "summary": "Indoor equipment requiring dedicated equipment space: Where equipment other than service equipment requires dedicated equipment space per 110.26(E), the required receptacle outlet shall be located within the same room or area as the electrical equipment and shall not be connected to the load side of the equipment's branch-circuit disconnecting means."
+    },
+    {
+      "article": "215.18",
+      "summary": "Deleted in its entirety. NH does not adopt the 2023 NEC requirement for surge-protective devices (SPDs) on feeders supplying dwelling units, dormitory units, hotel/motel guest rooms, or nursing home patient sleeping areas."
+    },
+    {
+      "article": "225.42",
+      "summary": "Deleted in its entirety. NH does not adopt the 2023 NEC requirement for surge-protective devices (SPDs) on outside feeders supplying dwelling units, dormitory units, hotel/motel guest rooms, or nursing home patient sleeping areas."
+    },
+    {
+      "article": "230.67",
+      "summary": "Deleted in its entirety. NH does not adopt the 2023 NEC requirement for surge-protective devices (SPDs) at services supplying dwelling units, dormitory units, hotel/motel guest rooms, or nursing home patient sleeping areas."
+    },
+    {
+      "article": "314.27(C)",
+      "summary": "Outlet boxes in habitable rooms of dwelling occupancies at ceiling locations acceptable for a ceiling-suspended (paddle) fan shall comply with one of the following: (1) Listed for sole support of ceiling-suspended fans, or (2) An outlet box complying with 314.27 and providing access to structural framing capable of supporting a fan bracket. Where spare, separately switched, ungrounded conductors are provided to a ceiling outlet box in a location acceptable for a fan in one-family, two-family, or multifamily dwellings, the outlet box shall be listed for sole support of a ceiling-suspended fan. Boxes shall not support fans exceeding 70 lb; boxes supporting fans over 35 lb shall be marked with maximum weight."
+    },
+    {
+      "article": "334.10",
+      "summary": "NM cable use expanded. Type NM, NMC, and NMS cables are now permitted exposed within: (a) dropped and suspended ceiling cavities, (b) accessible attics and roof spaces, (c) unfinished basements and crawl spaces. Except as permitted by 334.30(B)(2) for connections to luminaires and equipment, cables shall closely follow the surface of framing members, running boards, or equivalent. Exception for Type I and II construction: NM and NMC cable permitted where applied in buildings not exceeding three stories above grade, or where circuits do not leave the floor or dwelling unit of origin in taller buildings."
+    },
+    {
+      "article": "334.12",
+      "summary": "Uses not permitted updated to align with expanded 334.10 permissions. NM cable is not permitted: (1) In any dwelling or structure not specifically permitted in 334.10(1), (2), (3), and (5). (2) Exposed within a dropped or suspended ceiling cavity in other than one- and two-family and multifamily dwellings. (3) As service-entrance cable. (4) In commercial garages having hazardous (classified) locations. (5) In theaters and similar locations, except where permitted in 518.4(B). (6) In motion picture studios. (7) In storage battery rooms. (8) In hoistways or on elevators or escalators. (9) Embedded in poured cement, concrete, or aggregate. (10) In hazardous (classified) locations, except where specifically permitted by other articles."
+    },
+    {
+      "article": "334.30(B)(2)",
+      "summary": "NM cable whip length to luminaire or equipment permitted up to 4.5 ft (1.4 m) from the last point of cable support to the point of connection, where the cable and point of connection are within an accessible ceiling in one-, two-, or multifamily dwellings."
+    },
+    {
+      "article": "422.5(A)",
+      "summary": "Appliance GFCI ampere threshold reduced from 60 amperes to 20 amperes. Appliances listed in 422.5(A)(1) through (A)(7) rated 150 volts or less to ground and 20 amperes or less, single- or 3-phase, shall be provided with Class A GFCI protection for personnel. Multiple Class A GFCI protective devices shall be permitted but not required."
+    },
+    {
+      "article": "440.14",
+      "summary": "AC disconnect location requirements amended. Disconnecting means shall be within sight from and readily accessible from the equipment. May be installed on or within the equipment. Shall not be located on access panels that obscure nameplate(s). Exception No. 1: Industrial process refrigerating or AC equipment where disconnect is lockable per 110.25, with written safety procedures and only qualified persons service. Exception No. 2: Attachment plug and receptacle serving as disconnect per 440.13 shall be accessible but not required to be readily accessible. Exception No. 3: Disconnect for indoor unit of a ductless mini-split system not required if the outdoor condensing unit disconnect is lockable in the open position per 110.25."
+    },
+    {
+      "article": "450.9",
+      "summary": "Transformer ventilation requirements clarified. Ventilation shall dispose of full-load heat losses without creating temperature rise in excess of the transformer rating. Transformers with ventilating openings shall be installed so openings are not blocked by walls or other obstructions. Required clearances shall be clearly marked on the transformer."
+    },
+    {
+      "article": "680.4",
+      "summary": "Deleted in its entirety. NH does not adopt the 2023 NEC provision allowing the authority having jurisdiction to require periodic inspection and testing of pool installations."
+    }
+  ]
+}
