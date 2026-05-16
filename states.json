@@ -8,7 +8,7 @@
     { "code": "CO", "name": "Colorado", "necCycle": "2023", "localAdoption": false },
     { "code": "CT", "name": "Connecticut", "necCycle": "2020", "localAdoption": false },
     { "code": "DE", "name": "Delaware", "necCycle": "2023", "localAdoption": false },
-    { "code": "DC", "name": "District of Columbia", "necCycle": "2014", "localAdoption": false },
+    { "code": "DC", "name": "District of Columbia", "necCycle": "2023", "localAdoption": false },
     { "code": "FL", "name": "Florida", "necCycle": "2020", "localAdoption": false },
     { "code": "GA", "name": "Georgia", "necCycle": "2023", "localAdoption": false },
     { "code": "HI", "name": "Hawaii", "necCycle": "2020", "localAdoption": false },
