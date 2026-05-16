@@ -1,0 +1,89 @@
+{
+  "state": "NJ",
+  "stateName": "New Jersey",
+  "necCycle": "2020",
+  "effectiveDate": "2022-09-06",
+  "source": "N.J. Admin. Code § 5:23-3.16 - Electrical Subcode, New Jersey Uniform Construction Code (UCC), effective September 6, 2022. Includes 2020 NEC with Tentative Interim Amendments 1-9.",
+  "amendments": [
+    {
+      "article": "90.4",
+      "summary": "Enforcement authority is the Electrical Subcode Official (not 'authority having jurisdiction'). Approval shall be in accordance with N.J.A.C. 5:23-2.9. All references to 'authority having jurisdiction' in 90.4 are replaced with 'electrical subcode official.' The phrase 'by the jurisdiction' is deleted from the third paragraph."
+    },
+    {
+      "article": "90.5(C)",
+      "summary": "Explanatory material section amended to add 'except as outlined under N.J.A.C. 5:23-3.16(a)2i' after the word 'Code' — clarifying that informational notes referencing other codes and standards are explanatory only and not adopted as part of the subcode."
+    },
+    {
+      "article": "100 - Approved",
+      "summary": "Definition revised: 'Approved' means approved by the electrical subcode official. Approval shall be in accordance with N.J.A.C. 5:23-3.7."
+    },
+    {
+      "article": "100 - Authority Having Jurisdiction",
+      "summary": "Definition replaced: Unless otherwise specifically noted, the authority having jurisdiction for the Electrical Subcode shall be the Electrical Subcode Official."
+    },
+    {
+      "article": "100 - Building",
+      "summary": "Definition of 'building' deleted from the NEC and replaced with the definition of 'building' found in N.J.A.C. 5:23-1.4 (the UCC definition)."
+    },
+    {
+      "article": "210.12(D)",
+      "summary": "Deleted in its entirety. The 2020 NEC requirement for AFCI protection on branch circuit extensions or modifications in dwelling units (210.12(D)) does not apply in New Jersey."
+    },
+    {
+      "article": "300.4(A)(1)",
+      "summary": "Bored hole protection amended: Where the distance from the edge of the hole to the nearest edge of the wood member is less than 32 mm (1-1/4 inches), protection is required as specified by the building subcode. The NEC's specific nail plate language is replaced by a reference to building subcode requirements."
+    },
+    {
+      "article": "334.12(A)(2)",
+      "summary": "Deleted in its entirety. The prohibition on NM cable in 'two-family dwellings' under 334.12(A)(2) does not apply in New Jersey."
+    },
+    {
+      "article": "406.4(D)(4)",
+      "summary": "Deleted in its entirety. The 2020 NEC requirement for AFCI protection on replacement receptacles (406.4(D)(4)) does not apply in New Jersey."
+    },
+    {
+      "article": "Article 425 (Multiple Sections)",
+      "summary": "Multiple sections of Article 425 (Fixed Resistance and Electrode Industrial Process Heating Equipment) are deleted: 425.6 (Listed Equipment), 425.8 (General, including A-C), 425.10 (Special Permission), 425.12 (Locations, including A-B), 425.13 (Spacing from Combustible Material), 425.14 (Infrared Lamp Industrial Process Heating Equipment), 425.22(B) (Resistance Elements), 425.22(C) (Overcurrent Devices), 425.29 (Marking of Heating Elements), 425.45 (Concealed Fixed Industrial Heating Equipment - Inspection), 425.57 through 425.64, 425.71 (Identification), 425.72(A)-(E), 425.81 (Identification), 425.83 (Overtemperature Limit Control), and 425.84 (Overpressure Limit Control)."
+    },
+    {
+      "article": "514.3(B)(3)",
+      "summary": "Motor fuel dispensing facilities: Section 514.3(B)(3), with the exception of subsection (e), is deleted."
+    },
+    {
+      "article": "525.5(B)",
+      "summary": "Carnivals, Circuses, Fairs and Similar Events — overhead conductor clearances: The 2020 NEC version is deleted and replaced with the NEC 2005 version: Amusement rides and attractions shall be maintained not less than 15 ft in any direction from overhead conductors operating at 600 volts or less, except for conductors supplying the amusement ride or attraction. Amusement rides or attractions shall not be located under or within 15 ft horizontally of conductors operating in excess of 600 volts."
+    },
+    {
+      "article": "550 (Part II)",
+      "summary": "Mobile Homes, Manufactured Homes, and Mobile Home Parks: Part II of Article 550 (Sections 550.11 through 550.25) is deleted. Section 550.10 is retained. Exception: Part II is retained in its entirety for mobile/manufactured homes undergoing repair, renovation, or alteration."
+    },
+    {
+      "article": "Article 551",
+      "summary": "Recreation Vehicles and Recreation Vehicle Parks: The words 'Recreational Vehicles and' are deleted from the article title. Parts II, III, IV, and V (Sections 551.20 through 551.60) are deleted in their entirety, except that Figure 551.46(C) is retained."
+    },
+    {
+      "article": "Article 552",
+      "summary": "Park Trailers: Article 552 applies to structures covered by the recreational park trailers subcode (N.J.A.C. 5:23-4D), provided: (1) the structure is restricted to seasonal use — the park must be open six months or less per year or access restricted to six months or less; and (2) no additions, alterations, or extensions of any kind shall be made to the electrical system or structure unless the entire electrical system is brought into conformance with requirements applicable to single family dwellings."
+    },
+    {
+      "article": "620.1, 620.23(C), 620.24(C), 620.51(A), 620.91",
+      "summary": "Elevator informational notes updated: All references to ASME A17.1-2016/CSA B44-16 in Sections 620.1, 620.23(C), 620.24(C), 620.51(A), and 620.91 are replaced with ASME A17.1-2019/CSA B44-19."
+    },
+    {
+      "article": "680.4",
+      "summary": "Deleted in its entirety. NJ does not adopt the provision allowing the AHJ to require periodic inspection and testing after installation of pool systems."
+    },
+    {
+      "article": "680.25(A)(1)",
+      "summary": "Pool feeders — exception added from NEC 2011: An existing feeder between an existing remote panelboard and service equipment shall be permitted to run in flexible metal conduit or an approved cable assembly that includes an equipment grounding conductor within its outer sheath. The equipment grounding conductor shall comply with 250.24(A)(5)."
+    },
+    {
+      "article": "805.156",
+      "summary": "Dwelling Unit Communications Outlet: Deleted in its entirety. The 2020 NEC requirement for a communications outlet in dwelling units does not apply in New Jersey."
+    },
+    {
+      "article": "Informative Annex H",
+      "summary": "Administration and Enforcement annex deleted in its entirety. NJ enforcement is governed by the Uniform Construction Code (N.J.A.C. 5:23), not the NEC's administrative annex."
+    }
+  ]
+}
