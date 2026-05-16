@@ -1,0 +1,29 @@
+{
+  "state": "MT",
+  "stateName": "Montana",
+  "necCycle": "2020",
+  "effectiveDate": "2022-06-11",
+  "source": "Administrative Rules of Montana (ARM) Title 24, Chapter 301, Subchapter 4 - Electrical Requirements. ARM 24.301.401 (Incorporation by Reference of NEC) and ARM 24.301.411 (Wiring Standards), effective June 11, 2022. Technical Advisory NEC TIA-23-3 on 210.8 issued August 12, 2022.",
+  "amendments": [
+    {
+      "article": "210.12",
+      "summary": "AFCI protection amended: All references to 'kitchen' or 'kitchens' are deleted from Section 210.12, Arc-Fault Circuit-Interrupter Protection. AFCI protection is not required for kitchen circuits in Montana. AFCI remains required in all other 2020 NEC-specified locations including bedrooms, family rooms, dining rooms, living rooms, parlors, libraries, dens, sunrooms, recreation rooms, closets, hallways, laundry areas, bathrooms, garages, and unfinished basements."
+    },
+    {
+      "article": "210.8(F) - TIA Advisory",
+      "summary": "GFCI for outdoor HVAC equipment: Montana's Building Codes Program issued a technical advisory in September 2022 acknowledging GFCI incompatibility issues with outdoor HVAC equipment. Montana allows the exception found in NFPA TIA-23-3 to the 2023 NEC (applicable by advisory to the 2020 NEC), which states GFCI protection is not required for listed HVAC equipment. This is an advisory position, not a formal ARM amendment, but is recognized by inspectors statewide."
+    },
+    {
+      "article": "110.2",
+      "summary": "Supplementary requirement: When requested, complete wiring diagrams shall be provided prior to installation of conductors and equipment indicating the conductor's and equipment's intended use."
+    },
+    {
+      "article": "550.32(A)",
+      "summary": "Manufactured/mobile home service equipment distance: The allowable distance for service equipment from the exterior wall of a manufactured or mobile home is increased from 30 ft (9.14 m) to 50 ft (15.24 m)."
+    },
+    {
+      "article": "550.33(A)",
+      "summary": "Manufactured/mobile home feeder: It shall be permissible to feed a manufactured (mobile) home with type SER cable when the service equipment is mounted on the exterior of the home. Physical protection of the cable is required by enclosing the cable in an approved raceway where run on the outside of the home. The cable shall be properly supported and attached per Article 338 where installed under the home."
+    }
+  ]
+}
