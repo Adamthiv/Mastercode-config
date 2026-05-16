@@ -1,0 +1,17 @@
+{
+  "state": "TN",
+  "stateName": "Tennessee",
+  "necCycle": "2017",
+  "effectiveDate": "2018-03-19",
+  "source": "Tennessee State Fire Marshal's Office (SFMO) - Currently Adopted Codes, effective March 19, 2018. Tenn. Comp. R. & Regs. 0780-02-23. Note: Individual municipalities may have locally adopted newer NEC editions — verify with local AHJ.",
+  "amendments": [
+    {
+      "article": "110.24",
+      "summary": "Available Fault Current marking is optional in Tennessee. The 2017 NEC requirement for service equipment to be marked with the available fault current and the date the fault current calculation was performed is not mandatory under the Tennessee SFMO adoption."
+    },
+    {
+      "article": "210.12",
+      "summary": "AFCI protection requirements amended: AFCIs are optional (not required) for the following locations — bathrooms, laundry areas, garages, unfinished basements (portions not intended as habitable rooms, limited to storage, work, or similar areas), and for branch circuits dedicated to supplying refrigeration equipment. AFCI protection remains required in all other 2017 NEC-specified locations such as bedrooms, family rooms, dining rooms, living rooms, parlors, libraries, dens, sunrooms, recreation rooms, closets, hallways, and similar rooms."
+    }
+  ]
+}
