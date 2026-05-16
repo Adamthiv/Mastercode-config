@@ -1,0 +1,134 @@
+{
+  "state": "NC",
+  "stateName": "North Carolina",
+  "necCycle": "2020",
+  "effectiveDate": "2021-11-01",
+  "source": "North Carolina State Electrical Code - 2020 NEC with State Amendments. Adopted by NC Building Code Council June 8, 2021, accepted by Rules Review Commission October 21, 2021, effective November 1, 2021. Published by NC Department of Insurance, Office of State Fire Marshal. Note: 2023 State Electrical Code was adopted but is on indefinite delay per Session Law 2025-2 (HB 47).",
+  "note": "IMPORTANT: The 2020 NC State Electrical Code does NOT apply to one- and two-family dwellings (per Amendments 10.1 and 10.2). The 2017 State Electrical Code applies to one- and two-family dwellings. All other occupancies use the 2020 code.",
+  "amendments": [
+    {
+      "article": "10.1 and 10.2 - Scope",
+      "summary": "The 2020 State Electrical Code does NOT apply to one- and two-family dwellings. The 2017 State Electrical Code applies to one- and two-family dwellings. This is a critical split — residential electricians working on single-family and duplex homes in NC are working under the 2017 NEC with NC amendments, not the 2020 NEC."
+    },
+    {
+      "article": "110.26(E)(2)(c)",
+      "summary": "Outdoor electrical equipment working space: Subsection (c) is deleted. Exception added: Structural overhangs or roof extensions shall be permitted in the working clearance zone for outdoor electrical installations."
+    },
+    {
+      "article": "210.8",
+      "summary": "GFCI general rule amended: When determining the distance from receptacles, the distance shall be measured as the shortest path the supply cord of an appliance connected to the receptacle would follow without piercing a floor, wall, ceiling, or fixed barrier, or the shortest path without passing through a window, door or doorway, excluding cabinet doors."
+    },
+    {
+      "article": "210.8(A)",
+      "summary": "GFCI dwelling unit receptacles: All 125-volt through 250-volt receptacles in specified locations supplied by single-phase branch circuits rated 150 volts or less to ground shall have GFCI protection. Exception: A 250-volt receptacle installed specifically for supplying a clothes dryer, range, oven, counter-mounted cooking unit, or similar household cooking appliance fastened in place shall NOT be required to have GFCI protection."
+    },
+    {
+      "article": "210.8(A)(2)",
+      "summary": "GFCI — Garages: Exception added for garage door opener receptacles: Single or duplex receptacles located more than 8 ft above the floor and specifically for connection to permanently installed cord-and-plug garage door openers are not required to have GFCI protection. A duplex receptacle is only permitted under this exception where two cord-and-plug garage door openers utilize both contact devices."
+    },
+    {
+      "article": "210.8(A)(3)",
+      "summary": "GFCI — Outdoors: Exception No. 2 added: A single outlet receptacle supplied by a dedicated branch circuit that is located and identified for specific use by a sewage lift pump is not required to have GFCI protection. This exception addresses conflicts with NC Department of Health septic regulations."
+    },
+    {
+      "article": "210.8(A)(5)",
+      "summary": "GFCI — Unfinished basements: NC amends the 2020 NEC to apply only to 'unfinished portions or areas of the basement not intended as habitable rooms' — finished basements are exempt. Exception added: A receptacle supplying only a permanently installed fire alarm or burglar alarm system shall not be required to have GFCI protection. Such receptacles do not count toward the 210.52(G) basement receptacle requirement."
+    },
+    {
+      "article": "210.8(B)(4)",
+      "summary": "GFCI — Outdoors, other than dwelling units: Exception No. 2 added for industrial establishments: Where conditions of maintenance and supervision ensure only qualified personnel are involved, an assured equipment grounding conductor program per 590.6(B)(2) shall be permitted for receptacle outlets used to supply equipment that would create greater hazard if power is interrupted or having a design incompatible with GFCI protection. Exception No. 3 added: A single outlet receptacle supplied by a dedicated branch circuit for a sewage lift pump is exempt."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI — Deleted in its entirety. NC does not adopt the 2020 NEC requirement for GFCI protection on outdoor outlets at dwelling garages, accessory buildings, or boathouses under 210.8(F)."
+    },
+    {
+      "article": "210.12(D)",
+      "summary": "AFCI — Branch circuit extensions or modifications: Amended to extend AFCI requirements to include dormitory units and hotel/motel guest rooms in addition to dwelling units. Exception added: AFCI protection shall not be required where the extension of existing branch circuit conductors is not more than 50 ft and does not include any additional outlets or devices other than splicing devices (not including conductors inside an enclosure, cabinet, or junction box)."
+    },
+    {
+      "article": "210.52(B)(2)",
+      "summary": "Small-appliance branch circuits — no other outlets: Exception No. 3 added: Receptacles installed inside a dwelling and within 6 ft of any kitchen sink (measured by shortest cord path without piercing a floor, wall, ceiling, or fixed barrier) shall be permitted on the small-appliance branch circuit."
+    },
+    {
+      "article": "210.52(C)(2)",
+      "summary": "Island and peninsular countertop receptacles: NC adopts specific requirements for island and peninsular countertop receptacles. At least one receptacle required at each island countertop space with long dimension 24 in. or greater and short dimension 12 in. or greater. For peninsular countertops: at least one receptacle with long dimension 24 in. or greater and short dimension 12 in. or greater, measured from the connecting perpendicular wall, with at least one receptacle within 2 ft of the outer end. Separate countertop spaces (divided by range-tops, refrigerators, or sinks) each require compliance. Receptacles required by this section shall be in accordance with 210.52(C)(3); additional receptacles may be outside those provisions."
+    },
+    {
+      "article": "230.67",
+      "summary": "Surge Protection — Deleted in its entirety. NC does not adopt the 2020 NEC requirement for surge-protective devices (SPDs) at services supplying dwelling units."
+    },
+    {
+      "article": "230.71(B)",
+      "summary": "Two to six service disconnecting means: NC amends 230.71(B) to add option (5): Panelboards for temporary electrical service installations (saw service pole) at a construction site are permitted as service disconnects, provided ungrounded circuits do not exceed 150 volts to ground, total rating of overcurrent devices does not exceed 100 amperes, and number of circuit breaker handles/ties operating as the disconnecting means does not exceed six operations of the hand."
+    },
+    {
+      "article": "230.85",
+      "summary": "Emergency disconnects for one- and two-family dwelling units: All service conductors shall terminate in disconnecting means with short-circuit current rating equal to or greater than available fault current, installed in a readily accessible outdoor location. If more than one disconnect is provided, they shall be grouped. Each disconnect shall be: (1) Service disconnect marked 'EMERGENCY DISCONNECT, SERVICE DISCONNECT'; (2) Meter disconnect per 230.82(3) marked 'EMERGENCY DISCONNECT, METER DISCONNECT, NOT SERVICE EQUIPMENT'; or (3) Other listed disconnect on supply side of service disconnect marked 'EMERGENCY DISCONNECT, NOT SERVICE EQUIPMENT.' Transfer switches and panelboards with main breaker that disconnect all service conductors are considered emergency disconnects."
+    },
+    {
+      "article": "250.50",
+      "summary": "Grounding electrode system: Exception added: Concrete-encased electrodes of existing buildings or structures shall not be required to be part of the grounding electrode system where the steel reinforcing bars or rods are not accessible without disturbing the concrete."
+    },
+    {
+      "article": "250.53(A)(2)",
+      "summary": "Supplemental electrode required: Exception No. 2 added: The supplemental ground electrode shall not be required at temporary electrical service installations (saw service pole) at a construction site where ungrounded circuits do not exceed 150 volts to ground and the rating of the disconnecting means does not exceed 100 amperes."
+    },
+    {
+      "article": "250.140",
+      "summary": "Frames of ranges and clothes dryers: NC adopts specific provisions for existing branch-circuit installations where an equipment grounding conductor is not present, allowing connection to grounded circuit conductor under specific conditions including that the supply circuit is 120/240-volt single-phase or 208Y/120-volt, grounded conductor is not smaller than 10 AWG copper or 8 AWG aluminum, and the grounded conductor meets specific insulation or cable assembly requirements. Exception No. 2 also permits running a separate equipment grounding conductor from the service."
+    },
+    {
+      "article": "250.142(B)",
+      "summary": "Grounded conductors on load side: NC adds Exception No. 4 permitting grounding an existing panelboard enclosure by connection to the grounded circuit conductor in one- and two-family dwellings when relocating or installing an additional main disconnecting means, where an equipment grounding conductor is not present in the existing panelboard and replacement of existing service entrance conductors would require removal of building finish or is deemed impractical by the AHJ, subject to specific conditions."
+    },
+    {
+      "article": "300.3(B)",
+      "summary": "Conductors of same circuit: NC adds provision (5) for existing dwelling panelboards: An equipment grounding conductor for the supply feeder of an existing panelboard in one- and two-family dwellings shall be permitted to be installed separately and outside of the raceway or cable assembly when relocating or installing an additional service disconnecting means (thereby redefining existing service entrance conductors as a feeder) and where replacement of existing service entrance conductors requires removal of building finish or is deemed impractical by the AHJ."
+    },
+    {
+      "article": "Table 300.5",
+      "summary": "Minimum burial cover requirements: NC adopts a modified Table 300.5. Notable change: For one- and two-family dwelling driveways and outdoor parking areas used only for dwelling-related purposes, Column 4 (Residential Circuits Rated 250V or Less with GFCI Protection and Max 50A OCPD) requires 300 mm (12 in.) minimum cover — same as the base NEC. Other depth requirements are aligned with base 2020 NEC values."
+    },
+    {
+      "article": "300.9",
+      "summary": "Raceways in wet locations abovegrade: NC adopts 300.9 which requires that where raceways are installed in wet locations abovegrade, the interior of the raceway shall be considered a wet location and conductors shall be suitable for wet locations."
+    },
+    {
+      "article": "320.23(A)",
+      "summary": "Armored cable (AC) through or parallel to framing members: NC adopts specific protection requirements for AC cable installed through or parallel to framing members."
+    },
+    {
+      "article": "334.15(C)",
+      "summary": "NM cable in unfinished basements: NC adopts specific requirements for NM cable in unfinished basements and crawl spaces."
+    },
+    {
+      "article": "406.4(D)(4)",
+      "summary": "AFCI protection for receptacle replacements: NC adopts the 2020 NEC requirement for AFCI protection when receptacles are replaced in locations covered by 210.12."
+    },
+    {
+      "article": "410.2",
+      "summary": "Luminaire definitions: NC adopts specific definition amendments for luminaires."
+    },
+    {
+      "article": "410.16(C)",
+      "summary": "Luminaires in clothes closets: NC adopts 2020 NEC requirements for luminaire types and clearances permitted in clothes closets."
+    },
+    {
+      "article": "555.10(3) and 555.35(A)(3)",
+      "summary": "Marina and boatyard wiring: NC adopts specific requirements for shore power connections and electrical systems in marinas and boatyards."
+    },
+    {
+      "article": "680.4",
+      "summary": "Pool inspections: NC adopts 680.4 provisions for inspections after installation of pool electrical systems."
+    },
+    {
+      "article": "680.21(D)",
+      "summary": "Swimming pool motor branch circuit wiring methods: NC adopts specific wiring method requirements for pool pump motor branch circuits."
+    },
+    {
+      "article": "695.2 and 695.3",
+      "summary": "Fire pump power sources: NC adopts specific requirements for fire pump power supply and alternate power sources."
+    }
+  ]
+}
