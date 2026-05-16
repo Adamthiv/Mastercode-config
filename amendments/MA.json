@@ -1,0 +1,289 @@
+{
+  "state": "MA",
+  "stateName": "Massachusetts",
+  "necCycle": "2026",
+  "effectiveDate": "2026-04-24",
+  "source": "527 CMR 12.00 - Board of Fire Prevention Regulations",
+  "amendments": [
+    {
+      "article": "90.2(A)(2)(5)",
+      "summary": "Utility wiring systems in legally established easements, rights-of-way, or by other agreements with public service commissions, utility commissions, or regulatory agencies are excluded from coverage. Includes luminaires for street and area lighting directly connected to such systems regardless of ownership."
+    },
+    {
+      "article": "90.4",
+      "summary": "Enforcement authority shall accept listed and labeled equipment where used or installed in accordance with instructions included with the listing and labeling. Authority has responsibility for deciding upon approval of unlisted or unlabeled equipment and materials."
+    },
+    {
+      "article": "90.6",
+      "summary": "Interpretations of code provisions may be requested from the Board of Fire Prevention Regulations in the form of a yes or no question. Does not supersede the right of individuals aggrieved by an Inspector of Wires decision to appeal to the Board of Electricians Appeals per M.G.L. c. 143 section 3P."
+    },
+    {
+      "article": "90.10",
+      "summary": "New section added. References to Commonwealth of Massachusetts Codes, Regulations, and Laws are included in Appendix A, covering Building Codes, Elevator Regulations, Plumbing and Fuel Gas Code, Board of Fire Prevention Regulations, Division of Industrial Safety, State Sanitary Code, Fire Safety Code, Permit Applications, and Chapters of the General Laws."
+    },
+    {
+      "article": "100 - Selective Coordination",
+      "summary": "Revised definition: Localization of an overcurrent condition to restrict outages to the circuit or equipment affected for fault current events that extend beyond 0.1 second, accomplished by selection and installation of overcurrent protective devices and their ratings or settings for the range of available overcurrents under such conditions, whether originating from overload, ground-fault, or short circuit, and for the full range of overcurrent protective device opening times applicable to such events."
+    },
+    {
+      "article": "100 - Manufactured Home",
+      "summary": "Informational Note No. 2 added: Manufactured Housing that is not designed to be transportable on running gear, and that is not produced under regulations that expressly cover such housing, is covered under Article 545."
+    },
+    {
+      "article": "100 - Occupiable Space",
+      "summary": "New definition inserted: A room or enclosed space designed for human occupancy in which individuals congregate for amusement, educational or similar purposes or in which occupants are engaged for labor, and which is equipped with means of egress and light and ventilation facilities."
+    },
+    {
+      "article": "110.14(A)",
+      "summary": "Connection by means of wire binding screws or studs and nuts having upturned lugs or equivalent shall be permitted for 10 AWG or smaller solid conductors, or conductors with Class B stranding. Where Class C stranded conductors are terminated on terminals, the uninsulated strands shall be completely enclosed within the termination, or the strands at the terminals shall be made solid."
+    },
+    {
+      "article": "110.24(A)",
+      "summary": "Informational Note No. 3 added: Marking required in this section is useful for determining compliance with 110.9, but must be understood as transitory and requiring reconfirmation prior to additional electrical work. Utility contribution to available fault current is inherently dynamic, particularly on medium voltage portions of their distributions."
+    },
+    {
+      "article": "110.26(A)(1)",
+      "summary": "Third paragraph (d) added - Adequate Accessibility: By special permission, smaller spaces may be permitted where it is judged that the particular arrangement of the installation will provide adequate accessibility."
+    },
+    {
+      "article": "120.40",
+      "summary": "Informational Note No. 3 added: Beginning January 1, 2024, cities and towns that have adopted the Specialized Stretch Energy Code will require new one- and two-family homes built with fossil fuel equipment to be pre-wired for future electrification conversion. Applies to heat pumps, resistance heat, and fossil-fueled major appliances. Advance installation of branch-circuit wiring for all future electrical equipment required to accomplish future conversion from fossil fuel applications must be in place, routed to locations appropriate to meet this intent."
+    },
+    {
+      "article": "210.8",
+      "summary": "Second paragraph revised: For purposes of this section, when determining distance from receptacles the distance shall be measured as the shortest path the supply cord of equipment connected to the receptacle would follow without piercing a floor, wall, ceiling, fixed barrier, or without passing through a cabinet door opening, doorway, or window."
+    },
+    {
+      "article": "210.8(A)(9)",
+      "summary": "Sinks revised: GFCI protection required where receptacles are installed within 1.8 m (6 ft) from the top inside edge of the bowl of the sink, or where located within a cabinet supporting a sink."
+    },
+    {
+      "article": "210.8(B)(7)",
+      "summary": "Sinks revised: GFCI protection required where receptacles are installed within 1.8 m (6 ft) from the top inside edge of the bowl of the sink, or where located within a cabinet supporting a sink."
+    },
+    {
+      "article": "210.8(D)",
+      "summary": "Exception added for items 8, 9, and 10: Permanently connected cooking equipment and cord-and-plug connected stationary cooking equipment that is listed but incompatible with GFCI protective devices as made available by the manufacturer of the circuit protection currently installed shall be permitted to omit such protection provided it is installed and inspected in accordance with Rule 11 of this Code. This exception expires January 1, 2029."
+    },
+    {
+      "article": "210.12(B)",
+      "summary": "All 120-volt, nominal, single-phase, 10, 15, and 20-ampere branch circuits supplying outlets or devices installed in dwelling units shall be protected by any of the means described in 210.12(A)(1) through (A)(6)."
+    },
+    {
+      "article": "210.21(B)",
+      "summary": "New fifth paragraph added - Receptacle Outlets on Individual Branch Circuits: A receptacle outlet installed to comply with a requirement for an individual branch circuit shall contain a single receptacle, or a multiple receptacle if, and then only to the extent that, the supplied equipment includes multiple supply cord connections."
+    },
+    {
+      "article": "210.25(B)",
+      "summary": "Exception added: Branch circuits supplying lighting outlets in common areas on the same floor as a dwelling unit in a new or existing two-family or an existing three-family building shall be permitted to be supplied from equipment that supplies one or more of those dwelling units."
+    },
+    {
+      "article": "210.52(A)(2)(1)",
+      "summary": "Any space 600 mm (2 ft) or more in width (including space measured around corners) and unbroken along the floor line by doorways, fireplaces, stationary appliances, and similar openings."
+    },
+    {
+      "article": "210.52(A)(4) and (5)",
+      "summary": "Delete 210.52(A)(4) and (5) in their entirety."
+    },
+    {
+      "article": "210.52(C)",
+      "summary": "Delete (C)(4). Revised countertop receptacle requirements: In kitchens, pantries, breakfast rooms, dining rooms, and similar areas of dwelling units, receptacle outlets for countertop and work surfaces that are 300 mm (12 in.) or wider shall be installed in accordance with 210.52(C)(1) through (C)(3). At least one receptacle outlet shall be installed to serve each island and peninsular countertop or work surface, located in accordance with 210.52(C)(3). A receptacle in a wall countertop or work surface that directly faces a peninsular countertop or work surface shall be permitted to serve as the receptacle for the peninsular space. Receptacle outlets shall be located in one or more of the following spaces: (1) On or above, but not more than 500 mm (20 in.) above, a countertop or work surface. (2) In a countertop or work surface, using a receptacle outlet assembly listed for the location. (3) Not more than 300 mm (12 in.) below countertops or work surfaces on peninsular or island countertops where the surface is flat across its entire surface and there are no means to mount a receptacle within 500 mm (20 in.) above the countertop or work surface. Receptacles installed below a countertop or work surface shall not be located where the countertop or work surface extends more than 150 mm (6 in.) beyond the face of such receptacles. Exception to (3): Receptacle outlets shall be permitted below wall-mounted countertops or work surfaces in construction for the physically impaired."
+    },
+    {
+      "article": "215.15",
+      "summary": "Barriers shall be placed in panelboards, switchboards, switchgear, and motor control centers such that no energized, uninsulated, ungrounded supply terminal is exposed to inadvertent contact by persons or maintenance equipment while servicing load terminations. Applies to supply terminals of equipment supplied by feeder taps as covered in 240.21(B) or by transformer secondary conductors as covered in 240.21(C), in all instances where the equipment disconnecting means is located within the same enclosure, or is located remotely and also controls other loads."
+    },
+    {
+      "article": "225.30(F)",
+      "summary": "Documented Switching Procedures: Additional feeders or branch circuits shall be permitted to supply large capacity multibuilding industrial or institutional installations under single management where documented safe switching procedures are established and maintained for disconnection."
+    },
+    {
+      "article": "225.31(B) Exception No. 1",
+      "summary": "For large capacity multibuilding industrial or institutional installations under single management where documented safe switching procedures are established and maintained for disconnection, and where the disconnection is monitored by qualified individuals, the disconnecting means shall be permitted to be located elsewhere on the premises."
+    },
+    {
+      "article": "230.70(A)(1)",
+      "summary": "Applies to one- and two-family dwellings, or new buildings of double occupancy, at least one of which is a dwelling unit. Also applies to two-family dwelling units or buildings of double occupancy, at least one of which is a dwelling unit newly created by subdivision of an existing one-family dwelling. Service disconnects shall be installed in a readily accessible outdoor location. Exception No. 2 added: A service disconnect located inside a dwelling and supplied by a service lateral or by underground service conductors shall be permitted to be capable of disconnection from a readily accessible location outside of the dwelling by using a method providing remote control of the service disconnecting means, and marked: EMERGENCY ELECTRICAL DISCONNECT and NOT SERVICE EQUIPMENT. The control wiring shall be enclosed in a raceway."
+    },
+    {
+      "article": "230.70(E)",
+      "summary": "Exception added: If only meter sockets, service entrance conductors, service overcurrent protection main circuit breakers, or related raceways and fittings are replaced, the requirements of 230.70(A)(1) and 230.70(B)(2) shall not apply."
+    },
+    {
+      "article": "250.130(C)",
+      "summary": "Delete this subsection."
+    },
+    {
+      "article": "250.140(B)(5)",
+      "summary": "The branch circuit shall be provided with GFCI protection."
+    },
+    {
+      "article": "300.5(A)",
+      "summary": "Informational Note added: Cables suitable for direct burial are often sleeved in various raceways for design reasons. If such cable is installed with sufficient cover for direct burial, then the characteristics of that raceway need not be evaluated. Other rules of this Code that apply to raceways generally may apply. See 300.5(H)."
+    },
+    {
+      "article": "300.13(B)",
+      "summary": "Support wires that do not provide secure support shall not be the sole support. Where independent support wires are used, they shall be secured at both ends. The ceiling system shall be permitted to support branch-circuit wiring and associated equipment if installed in accordance with the ceiling system manufacturer's instructions. Cables and raceways shall not be supported by ceiling grids. Fire-Resistance Rated Assemblies: Wiring located within the cavity of a fire-rated floor-ceiling or roof-ceiling assembly shall not be secured to, or supported by, the ceiling assembly, including the ceiling support wires. Non-Fire-Resistance Rated Assemblies: Branch-circuit wiring associated with equipment that is located within, supported by, or secured to a suspended ceiling that is not an integral portion of a fire-rated floor/ceiling or roof/ceiling assembly shall be permitted to be supported by the ceiling support wires."
+    },
+    {
+      "article": "310.12",
+      "summary": "Delete the second paragraph."
+    },
+    {
+      "article": "310.15(C)(1)",
+      "summary": "Table 310.15(C)(1) revised: 4-6 conductors = 80%, 7-24 conductors = 70%, 25-42 conductors = 60%, 43 and above = 50%. Number of Conductors is the total number in the raceway or cable, including spare conductors, adjusted per 310.15(E) and (F), not including conductors connected to electrical components that cannot be simultaneously energized."
+    },
+    {
+      "article": "310.15(C)(1)",
+      "summary": "Delete the fourth itemized adjustment provision (d) covering AC and MC cable."
+    },
+    {
+      "article": "314.29(A)(1)",
+      "summary": "Exception reidentified. New first paragraph inserted: (1) The outlet box that supplies the device is nonmetallic, or the box is metallic and the equipment grounding connection to the box is accessible through the opening."
+    },
+    {
+      "article": "320.80(A)(1)",
+      "summary": "Delete the last sentence of the first paragraph which reads: The 90 degrees C (194 degrees F) rating shall be permitted to be used for ampacity adjustment and correction calculations; however, the ampacity shall not exceed that for a 60 degrees C (140 degrees F) rated conductor."
+    },
+    {
+      "article": "334.10",
+      "summary": "Exception added to follow (3): For buildings or structures required to be of Type I or Type II construction, Type NM, or Type NMC cables shall be permitted to be used, provided that where so applied in buildings or structures exceeding three stories above grade, circuits run in Type NM or NMC cable shall not leave the floor or dwelling unit from which the circuits originate. Cables shall be installed within walls, floors, or ceilings that provide a thermal barrier of material that has at least a 15-minute finish rating as identified in listings of fire-rated assemblies."
+    },
+    {
+      "article": "334.12(2)",
+      "summary": "In dropped or suspended ceilings in other than one- and two-family and multifamily dwellings, unless run so as to closely follow the surface of framing members, running boards, or the equivalent, or unless connected to luminaires or other pieces of electrical equipment in accordance with 334.30(B)(2)."
+    },
+    {
+      "article": "334.17",
+      "summary": "Types NM and NMC cable shall comply with 300.4 where installed through studs, joists, rafters, and similar members. Grommets or bushings shall be used in metal studs as required in 300.4(B)(1), shall remain in place during the wall finishing process, shall cover the complete opening, and shall be listed for the purpose of cable protection. Cable installed parallel to framing members shall be secured so that the nearest outside surface of the cable is not less than 19 mm (3/4 in.) from the nearest edge of the framing member or furring strip where nails or screws are likely to penetrate. Where this distance cannot be maintained, the cable shall be protected from penetration by nails or screws by a steel plate, sleeve, or equivalent at least 1.6 mm (1/16 in.) thick. A listed and marked steel plate less than 1.6 mm (1/16 in.) thick that provides equal or better protection against nail or screw penetration shall be permitted for this purpose. Exception: For concealed work in finished buildings, or finished panels for prefabricated buildings where such supporting is impracticable, it shall be permitted to fish the cable between access points."
+    },
+    {
+      "article": "334.30",
+      "summary": "Nonmetallic-sheathed cable shall be secured by listed staples, cable ties, straps, or similar fittings so designed and installed as to not damage the cable. The cable length between the cable entry and the closest cable support shall not exceed 450 mm (18 in.). Where staples are used for cable sizes smaller than three 8 AWG conductors, they shall be of the insulated type, or listed noninsulated staples driven by staple guns shall be permitted. Cable shall be secured in place at intervals not exceeding 1.4 m (4.5 ft) and within 300 mm (12 in.) from every cabinet, box, or fitting. Where the cable is running diagonally behind strapping of a nominal 19 mm (3/4 in.) thickness it shall be considered supported, secured, and in compliance with 334.17 where it is not pulled taut. Sections of cable protected from physical damage by raceway shall not be required to be secured within the raceway."
+    },
+    {
+      "article": "334.80",
+      "summary": "Delete 334.80(B) and retitle 334.80(A): Types NM and NMC cables shall have conductors rated at 90 degrees C (194 degrees F). Where installed in thermal insulation, the ampacity of conductors shall be that of 60 degrees C (140 degrees F) conductors. The ampacity of Types NM and NMC cables installed in cable tray shall be determined in accordance with 392.80."
+    },
+    {
+      "article": "338.10(B)(4)",
+      "summary": "Informational Note added: This section includes service entrance cables with a round configuration commonly known as SER cable. The interior installation of this cable is governed by the same rules as apply to nonmetallic sheathed cable."
+    },
+    {
+      "article": "338.10(B)(4)(a)(3)",
+      "summary": "Where installed in thermal insulation, the ampacity shall be in accordance with the 60 degrees C (140 degrees F) conductor temperature rating. The maximum conductor temperature rating shall be permitted to be used for ampacity adjustment and correction purposes, if the final derated ampacity does not exceed that for a 60 degrees C (140 degrees F) rated conductor."
+    },
+    {
+      "article": "344.2",
+      "summary": "Exception added: Rigid metal conduit made from nonferrous metals other than aluminum shall be permitted to be approved."
+    },
+    {
+      "article": "352.12",
+      "summary": "New section (F) added - High-Rise Buildings: Where used in buildings more than 21 m (70 ft) above mean grade, rigid nonmetallic conduit shall not be used unless the building is protected by an approved fire sprinkler system(s) installed on all floors as a complete system, or the conduit is concealed behind a thermal barrier as described in 362.10(2) or 362.10(5), or the conduit is encased in not less than 50 mm (2 in.) of concrete."
+    },
+    {
+      "article": "368.8",
+      "summary": "New section added - Tests Prior to Energizing: Busway system joint tightness, phasing, and insulation resistance shall be verified by test prior to energizing the system for the first time. Joint resistance shall be evaluated by a qualified person using equipment identified for the specific function. A written record of these tests shall be made available to the authority having jurisdiction."
+    },
+    {
+      "article": "368.14",
+      "summary": "New section added - Protection from Liquids, Moisture and Other Contaminants: Busway shall be protected from liquids, moisture, and other contaminants or corrosion that may result in electrical failure. During Construction: Indoor busways shall be protected from moisture during storage as well as during or after installation. Special consideration shall be given to riser busways to protect them from moisture from uncompleted roofs, walls, etc. Outdoor busways shall be treated the same as indoor busways until after busway is properly installed. Protection from Snow Buildup: Outdoor busway shall be mounted in such a manner as to prevent snow or ice buildup forcing water into the busway through weep holes."
+    },
+    {
+      "article": "368.18",
+      "summary": "Personnel Doors added: Where busway rated 800A or more is installed or plug-in equipment or both are installed in electrical rooms or spaces equipped with entry doors, and the rating of the busway system itself or provisions for the installed plug-in equipment is 800 amperes or more, the requirements of 110.26(C)(3) Personnel Doors shall apply."
+    },
+    {
+      "article": "368.56(B)",
+      "summary": "The length of the cord or cable from a busway plug-in device to a suitable tension take-up support device shall not exceed 2.5 m (8 ft). Exception to (B)(2): By special permission in industrial establishments only, where the conditions of maintenance and supervision ensure that only qualified persons will service the installation, flexible cord suitable for hard usage or extra hard usage or bus drop cable shall be permitted to extend horizontally greater lengths than 2.5 m (8 ft) where the longer length is essential for periodic repositioning of equipment. The flexible cord or bus drop cable shall be supported at intervals not to exceed 2.5 m (8 ft), and suitable tension take-up device(s) shall be installed at the end of the horizontal run to relieve strain in both the horizontal and vertical directions."
+    },
+    {
+      "article": "372.23",
+      "summary": "The ampacity adjustment factors in 310.15(C)(1) shall not apply where 30 or fewer current-carrying conductors occupy no more than 20% of the interior cross-sectional area of cellular concrete floor raceways."
+    },
+    {
+      "article": "374.23",
+      "summary": "The ampacity adjustment factors in 310.15(C)(1) shall not apply where 30 or fewer current-carrying conductors occupy no more than 20% of the interior cross-sectional area of cellular metal floor raceways."
+    },
+    {
+      "article": "390.23",
+      "summary": "The ampacity adjustment factors in 310.15(C)(1) shall not apply where 30 or fewer current-carrying conductors occupy no more than 20% of the interior cross-sectional area of underfloor raceways."
+    },
+    {
+      "article": "400.5",
+      "summary": "Table 400.5(A)(3) revised: 4-6 conductors = 80%, 7-24 = 70%, 25-42 = 60%, 43 and above = 50%."
+    },
+    {
+      "article": "400.12(4)",
+      "summary": "Exception to (4): Flexible cord and cable shall be permitted to be installed in accordance with 368.56(B) and 590.4. For other applications, where the length of the cord from the supply termination to a suitable tension take-up device is limited to 2.5 m (8 ft), flexible cord shall be permitted to have one connection to the building surface."
+    },
+    {
+      "article": "400.17",
+      "summary": "Flexible cords and cables shall be permitted to be installed in raceways not longer than 15 m (50 ft) in length where required to protect the flexible cord or cable from physical damage. The ampacity of the conductors within a raceway shall be adjusted in accordance with Table 400.5(A)(3) based on the total number of current-carrying conductors within the raceway, and then further derated by a factor of 0.8, or the ampacity can be calculated in accordance with 310.14(B). The raceway shall be exposed over its entire length."
+    },
+    {
+      "article": "406.9(C)(1)",
+      "summary": "Replace the entire content with: Receptacles shall not be installed within or directly over a bathtub or shower stall."
+    },
+    {
+      "article": "410.16(D)",
+      "summary": "Clearances revised: (1) 300 mm (12 in.) for surface-mounted incandescent luminaires with a completely enclosed light source, or for LED luminaires not covered in (2), that are installed on the wall above the door or on the ceiling. (2) 150 mm (6 in.) for surface-mounted fluorescent luminaires, or for surface-mounted LED luminaires that are factory wired with their drivers, that are installed on the wall above the door or on the ceiling. (3) 150 mm (6 in.) for recessed incandescent luminaires, or for LED luminaires not covered in (4), with a completely enclosed light source, installed in the wall or the ceiling. (4) 150 mm (6 in.) for recessed fluorescent luminaires, or for recessed LED luminaires that are factory wired with their drivers, installed in the wall or the ceiling."
+    },
+    {
+      "article": "410.36(B)",
+      "summary": "Additional paragraph added: In addition to, or in lieu of, the mechanical fastening means, luminaires equaling or exceeding 1.8 kg (4 lb) shall be directly supported to the building structure or to approved intermediate supports rigidly secured to the building structure. The luminaire support shall be by wire, chain, or threaded rod of sufficient strength to carry the luminaire. Luminaires equal to or greater than 600 mm (2 ft), nominal, on a side shall be supported at each end of a diagonal axis regardless of weight."
+    },
+    {
+      "article": "440.14",
+      "summary": "Informational Note No. 2 added: Article 440 generally only applies to equipment that incorporates hermetic refrigerant motor-compressors. See also 430.109(B) for specific provisions governing the disconnecting requirements for such equipment, wherever located, that uses a motor that is 1/8 hp or less."
+    },
+    {
+      "article": "517.13",
+      "summary": "Delete the Exception."
+    },
+    {
+      "article": "517.26",
+      "summary": "Application of Other Articles revised: (A) General - Other than as specified in 517.26(B), the requirements of Article 700 shall not apply. (B) Life Safety Branch - The Life Safety Branch of the Essential Electrical System shall comply with 700.10(D)."
+    },
+    {
+      "article": "680.4",
+      "summary": "Delete this requirement."
+    },
+    {
+      "article": "680.8",
+      "summary": "Informational Note added ahead of 680.8(A): Unlisted swimming pool pump motors have been observed in the field as having been supplied by their manufacturer with undersized cords, cords of excessive length, cord connectors on outdoor applications that are unsuitable for wet locations, and other violations of this Code. The fact that a manufacturer may supply them in this form does not excuse compliance with the rules of this Code. Listed storable swimming pool pump motors with long factory-supplied cords are prominently marked as such and are not covered in Part II of Article 680. They are not manufactured for use with permanently installed pools and they need not be bonded where used as intended. See 680.31."
+    },
+    {
+      "article": "680.23(B)(2)(a)",
+      "summary": "Metal Conduit: Metal conduit shall be listed stainless steel or approved red brass."
+    },
+    {
+      "article": "680.23(F)(1)",
+      "summary": "Branch circuit wiring on the supply side of enclosures and junction boxes connected to underwater luminaires and running in corrosive, wet, or below-grade locations shall comply with 680.14 or shall be liquidtight flexible nonmetallic conduit. Wiring methods in dry, noncorrosive locations within or on buildings shall be selected and run in accordance with the applicable requirements in Chapter 3. Wiring in all locations shall include an insulated or covered equipment grounding conductor of a wire type, sized in accordance with 250.122 but not smaller than 12 AWG."
+    },
+    {
+      "article": "680.74(A)",
+      "summary": "Delete numbered paragraphs (3), (4), and (5). Delete Exception No. 1 and Exception No. 3, and designate Exception No. 2 as Exception."
+    },
+    {
+      "article": "690.31(D)(2)",
+      "summary": "The labels shall be reflective, all letters shall be capitalized, and the letters shall have a minimum height of 9.5 mm (3/8 in.) in white on a red background."
+    },
+    {
+      "article": "690.56",
+      "summary": "Informational Note added: The Massachusetts Comprehensive Fire Code, 527 CMR 1.00, requires signage adjacent to the building or service disconnect that provides contact information and identifies the party responsible for the operation of the PV system."
+    },
+    {
+      "article": "Article 691",
+      "summary": "Delete this article."
+    },
+    {
+      "article": "700.10(D)",
+      "summary": "Revised: Fire Protection section added. Emergency systems shall meet the additional requirements in 700.10(D)(1) through (D)(3). Delete (D)(1); renumber (D)(2) through (D)(4) as (D)(1) through (D)(3). In the resulting (D)(3), change 700.10(D)(2) to read 700.10(D)(1)."
+    },
+    {
+      "article": "700.12(G)(2)(2)",
+      "summary": "In the third sentence, delete the word 'also'. Then delete the second sentence that reads: Flexible cord- and plug-connection shall be permitted for unit equipment provided that the cord does not exceed 900 mm (3 ft) in length."
+    }
+  ]
+}
