@@ -29,7 +29,7 @@
     { "code": "MT", "name": "Montana", "necCycle": "2020", "localAdoption": false },
     { "code": "NE", "name": "Nebraska", "necCycle": "2023", "localAdoption": false },
     { "code": "NV", "name": "Nevada", "necCycle": "2017", "localAdoption": false },
-    { "code": "NH", "name": "New Hampshire", "necCycle": "2020", "localAdoption": false },
+    { "code": "NH", "name": "New Hampshire", "necCycle": "2023", "localAdoption": false },
     { "code": "NJ", "name": "New Jersey", "necCycle": "2020", "localAdoption": false },
     { "code": "NM", "name": "New Mexico", "necCycle": "2020", "localAdoption": false },
     { "code": "NY", "name": "New York", "necCycle": "2023", "localAdoption": false, "splitCycle": true, "residential": "2023", "commercial": "2023", "nyc": "2020" },
