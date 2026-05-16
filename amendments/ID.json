@@ -1,0 +1,37 @@
+{
+  "state": "ID",
+  "stateName": "Idaho",
+  "necCycle": "2023",
+  "effectiveDate": "2024-07-01",
+  "source": "Idaho Code § 54-1001, as amended by House Bill 704 (2024), effective July 1, 2024. Idaho Legislature, 67th Legislature Second Regular Session.",
+  "amendments": [
+    {
+      "article": "210.8(A)",
+      "summary": "GFCI for one- and two-family dwelling units — significantly reduced from base 2023 NEC. Idaho replaces 210.8(A)(1)-(12) with a shorter list of only 7 required locations: (1) Bathrooms, (2) Outdoors, (3) Kitchens, (4) Sinks in areas other than kitchens where receptacles are within 6 ft of the outside edge of the sink, (5) Boathouses, (6) Bathtubs or shower stalls where receptacles are within 6 ft of the outside edge, (7) Indoor damp and wet locations. Notable omissions from base 2023 NEC: garages, unfinished basements, crawl spaces, laundry areas, dishwashers, and several other locations are NOT required in Idaho one- and two-family dwellings."
+    },
+    {
+      "article": "210.8(B)",
+      "summary": "GFCI for other than dwelling units — reduced from base 2023 NEC. Idaho replaces 210.8(B)(1)-(15) with 9 required locations: (1) Bathrooms, (2) Kitchens, (3) Rooftops, (4) Outdoors, (5) Sinks in kitchens and other areas where receptacles are within 6 ft of the sink edge, (6) Indoor damp or wet locations, (7) Locker rooms with showering facilities, (8) Aquariums, bait wells, and similar open aquatic vessels where receptacles are within 6 ft of the rim or support framing, (9) Bathtubs and shower stalls where receptacles are within 6 ft of the outside edge."
+    },
+    {
+      "article": "210.8(D)",
+      "summary": "Specific appliance GFCI — significantly reduced from base 2023 NEC. Idaho replaces 210.8(D) with only 4 required appliances: (1) Automotive vacuum machines only where receptacles are within 6 ft of the top inside edge or rim of the machine, (2) Drinking water coolers and bottle fill stations, (3) High-pressure spray washing machines, (4) Sump pumps. Notable omissions from base 2023 NEC: vending machines, dishwashers, electric ranges, wall-mounted ovens, counter-mounted cooking units, clothes dryers, and microwave ovens are NOT required in Idaho."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI for dwellings — drastically reduced from base 2023 NEC. Idaho replaces 210.8(F) to require GFCI protection only for outdoor outlets at boathouses. Garages at or below grade and accessory buildings are NOT required locations for outdoor GFCI in Idaho under this section."
+    },
+    {
+      "article": "210.12(B)",
+      "summary": "AFCI protection — deleted for one- and two-family dwelling units. Section 210.12(B) applies in full for all other occupancies. However, in one-family and two-family dwelling units, arc-fault circuit-interrupter protection shall not apply. AFCI is not required in Idaho residential dwellings."
+    },
+    {
+      "article": "422.5(A)",
+      "summary": "Appliance GFCI — reduced from base 2023 NEC. Idaho replaces 422.5(A) to require Class A GFCI protection only for 4 appliance types: (1) Automotive vacuum machines where receptacles are within 6 ft of the top inside edge or rim of the machine, (2) Drinking water coolers and bottle fill stations, (3) Cord-and-plug-connected high-pressure spray washing machines, (4) Sump pumps."
+    },
+    {
+      "article": "54-1001A - EV Circuit Mandates",
+      "summary": "New Idaho statute: No city, county, incorporated or unincorporated area, special use district, or any other local governmental entity shall require the installation of an electric vehicle circuit as part of any new home construction. Local governments cannot mandate EV-ready wiring in new homes."
+    }
+  ]
+}
