@@ -20,7 +20,7 @@
     { "code": "KY", "name": "Kentucky", "necCycle": "2023", "localAdoption": false },
     { "code": "LA", "name": "Louisiana", "necCycle": "2020", "localAdoption": false },
     { "code": "ME", "name": "Maine", "necCycle": "2023", "localAdoption": false },
-    { "code": "MD", "name": "Maryland", "necCycle": "2023", "localAdoption": false },
+    { "code": "MD", "name": "Maryland", "necCycle": "2020", "localAdoption": false },
     { "code": "MA", "name": "Massachusetts", "necCycle": "2026", "localAdoption": false },
     { "code": "MI", "name": "Michigan", "necCycle": "2023", "residential": "2017", "commercial": "2023", "localAdoption": false, "splitCycle": true },
     { "code": "MN", "name": "Minnesota", "necCycle": "2023", "localAdoption": false },
