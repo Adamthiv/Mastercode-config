@@ -1,0 +1,299 @@
+{
+  "state": "Washington",
+  "abbreviation": "WA",
+  "nec_cycle": "2023",
+  "effective_date": "2024-04-01",
+  "ahj_note": "Washington adopts the 2023 NEC with state-specific amendments in WAC 296-46B. Cities may adopt additional amendments through the Washington Cities Electrical Code (WCEC). Always verify with the local AHJ before work begins.",
+  "amendments": [
+    {
+      "article": "110.22",
+      "topic": "Identification of Disconnecting Means",
+      "summary": "An identification plate is required for legibly marking a disconnecting means unless the disconnect is a circuit breaker or fused switch installed within a panelboard and identified by a panelboard schedule. In other than dwelling units, the identification plate must include the identification designation of the circuit source panelboard that supplies the disconnecting means."
+    },
+    {
+      "article": "210.8(A)",
+      "topic": "Dwelling Unit GFCI — Fire Alarm Receptacle Exception and Shower/Tub Rule",
+      "summary": "In a garage or unfinished basement, a red receptacle with a red cover plate supplying a fire alarm system is not required to have GFCI protection. Must be identified for fire alarm use only by an identification plate with letters at least 1/4 inch high. All fixed electrical equipment with exposed grounded metal parts within an enclosed shower area or within five feet of the top inside edge of a bathtub must have GFCI protection."
+    },
+    {
+      "article": "210.8(B)",
+      "topic": "Non-Dwelling GFCI — Exceptions",
+      "summary": "GFCI protection is not required for: three-phase receptacles (unless specifically required elsewhere in the NEC), or receptacles other than 125V single-phase 15 or 20A used for recreational vehicle supply equipment or mobile home supply cord attachment. For 210.8(B), 'kitchen' means any area where utensils or dishes are cleaned or where food or beverages are prepared or cooked."
+    },
+    {
+      "article": "210.11",
+      "topic": "Branch Circuits — Future Dwelling Unit Space",
+      "summary": "A raceway system or one dedicated 15-ampere minimum 120V circuit must be taken to all unfinished space areas adaptable to future dwelling unit living areas that are not readily accessible to the panelboard. One circuit or raceway required for each 480 square feet or less of unfinished space. If total adjacent unfinished space is less than 480 square feet, an extension of an existing circuit is permitted. Circuits must terminate in a suitable box identified with the intended purpose."
+    },
+    {
+      "article": "210.25",
+      "topic": "Common Area Branch Circuits — Septic/Well Shared Systems",
+      "summary": "Loads for septic or water well systems shared by no more than two dwelling units may be supplied from either of the two dwelling units if approved by the local building official and local health department."
+    },
+    {
+      "article": "210.52(A)(2)",
+      "topic": "Dwelling Unit Receptacle Outlets — Similar Openings",
+      "summary": "For NEC 210.52(A)(2)(1), 'similar openings' include: window seating, and bookcases or cabinets extending from the floor to at least five feet six inches above the floor. Any outlets eliminated by such features must be installed elsewhere within the room."
+    },
+    {
+      "article": "210.52(C)(2)",
+      "topic": "Island and Peninsular Countertops — No Future Provisions Required",
+      "summary": "If receptacle outlets are not installed to serve an island or peninsular countertop or work surface, no future provisions to do so are required."
+    },
+    {
+      "article": "210.63",
+      "topic": "Equipment Requiring Servicing — Outdoor Receptacle Locations",
+      "summary": "For equipment requiring servicing located outdoors, accessible locations for receptacle outlets do not include locations accessed through doors or windows."
+    },
+    {
+      "article": "215.2",
+      "topic": "Feeders — Conductor Ampacity Identification Plate",
+      "summary": "For other than one- or two-family dwelling feeders rated up to 400 amperes, if feeder conductors have a lesser ampacity than the equipment rating they terminate in or on, an identification plate stating 'Feeder conductor ampacity: _____' must be installed on the equipment at the load end."
+    },
+    {
+      "article": "215.5 / 215.10",
+      "topic": "Feeders — One-Line Diagram and Ground Fault Protection Testing",
+      "summary": "Other than plan review projects, installer must provide a one-line diagram showing service and feeder details before initial inspection approval for all nondwelling services or feeders larger than 400 amperes or over 600 volts. Diagram must be signed by owner, assigned administrator/master electrician, or stamped by a registered engineer. Equipment ground fault protection systems must be tested prior to service per manufacturer's published instructions, with written performance acceptance test record available at inspection."
+    },
+    {
+      "article": "220.42",
+      "topic": "Lighting Load Calculations — Energy Code Alternative",
+      "summary": "A building designed and constructed to comply with the currently adopted Washington state energy code unit lighting power allowance table may use that table in lieu of NEC 220.42. Requirements of NEC 220.42(B) items 1, 2, and 3 do not apply."
+    },
+    {
+      "article": "225.19(A)",
+      "topic": "Clearances from Buildings — Low Voltage Roof Exception",
+      "summary": "Where the voltage between conductors does not exceed 300 and the roof area is guarded or isolated, a reduction in clearance to three feet is permitted."
+    },
+    {
+      "article": "225.31(B)",
+      "topic": "Outside Feeder Disconnecting Means — Location",
+      "summary": "A feeder disconnecting means (including NEC 700, 701, or 702 generator disconnects) is considered 'in the building' if installed on the outside of the building or within sight and within 15 feet of the building. The building disconnecting means may supply only one building unless secondary buildings have a separate disconnect. Must have identification plate with at least 1/2-inch letters identifying the building served and its function as the building main disconnect."
+    },
+    {
+      "article": "230.28",
+      "topic": "Service Masts — Material and Installation Requirements",
+      "summary": "Conduit extended through the roof for overhead drops: conductors exceeding #1 AWG aluminum or #3 AWG copper must use rigid steel galvanized conduit no smaller than two inches. Conductors not exceeding those sizes must use rigid steel galvanized conduit no smaller than 1-1/4 inches. Masts must comply with Washington drawings E-101, E-102, or E-103. Roof flashing required at each mast penetration. Support guys required if service drop attaches more than 24 inches above roofline or if drop exceeds 100 feet. Conductors must extend at least 18 inches from all mastheads."
+    },
+    {
+      "article": "230.40",
+      "topic": "Service Conductors — Two-Family and Multiple Occupancy Buildings",
+      "summary": "Additional service drops or laterals to multi-occupancy buildings are permitted under specific conditions: each service drop sized for calculated load, each terminates in listed metering/service equipment, each occupant has access to their disconnect, no more than six service disconnects from a single transformer, all drops originate at the same transformer, and permanent identification plates at each disconnect location identify all other disconnect locations in or on the building."
+    },
+    {
+      "article": "230.42",
+      "topic": "Service Conductor — Ampacity Identification Plate",
+      "summary": "For other than one- or two-family dwelling services rated up to 400 amperes, if service conductors have lesser ampacity than the overcurrent protection or equipment rating, an identification plate stating 'Service conductor ampacity: _____' must be installed on the service equipment."
+    },
+    {
+      "article": "230.43",
+      "topic": "Service Conductor Wiring Methods Within Buildings",
+      "summary": "Service conductors not exceeding 1,000V within a building are limited to: galvanized or aluminum rigid metal conduit, galvanized IMC, wireways, busways, auxiliary gutters, minimum Schedule 40 rigid PVC conduit, cablebus, or MI cable. Exception: NEC 230.43 methods permitted when conductors are protected by customer-owned supply-side overcurrent protection sized per NEC 240.4."
+    },
+    {
+      "article": "230.70",
+      "topic": "Service Equipment Disconnecting Means — Location",
+      "summary": "Service disconnecting means must be at a readily accessible location. Outside location: permitted on the building or within sight and within 15 feet of the building. Inside location: service raceway must extend no more than 15 feet inside the building. Exception: no length limit when conductors are protected by customer-owned supply-side overcurrent protection per NEC 240.4."
+    },
+    {
+      "article": "230.85(C)",
+      "topic": "Emergency Disconnect — Replacement Trigger",
+      "summary": "Washington replaces NEC 230.85(C): when service equipment supplying 1- and 2-family dwellings is replaced, an emergency disconnecting means must be installed whenever service ampacity is increased or decreased, OR when any of the following are relocated: service disconnects, meter bases, overhead service masts, or underground service risers."
+    },
+    {
+      "article": "240.24(C)",
+      "topic": "Overcurrent Devices — Minimum Height Outdoors",
+      "summary": "Where the NEC or manufacturer's instructions do not specify minimum height, enclosures installed outdoors containing overcurrent devices shall have the bottom of the enclosure not less than 24 inches above finished grade unless: the equipment is approved for pad/floor/ground mounting, or the enclosure is located over concrete or asphalt paving extending three or more feet horizontally from the surface."
+    },
+    {
+      "article": "240.24(F)",
+      "topic": "Overcurrent Devices — Above Steps Exception for Repairs",
+      "summary": "If the overcurrent device is part of a panelboard being repaired or replaced in an existing location, the installation is allowed to be made above the steps."
+    },
+    {
+      "article": "240.67(C) / 240.87(C)",
+      "topic": "Arc Energy Reduction — Performance Testing Documentation",
+      "summary": "Where fuses rated 1,200 amperes and higher are installed, documentation of arcing current calculations and a written performance test report for the arc energy reduction protection system must be available to the inspector at the installation site prior to placing equipment into service. Report must include date, address, employer contact, names and signatures of testers, calculations, equipment settings, manufacturer instructions used, and calibration documentation."
+    },
+    {
+      "article": "250.28(D)(3)",
+      "topic": "Separately Derived System — Bonding Jumper Sizing",
+      "summary": "Amended: where a separately derived system supplies more than a single enclosure, the system bonding jumper for each enclosure shall be sized per 250.28(D)(1) based on the largest ungrounded feeder/tap conductor serving that enclosure, OR a single system bonding jumper installed at the source sized based on the equivalent sum of the largest supply conductors."
+    },
+    {
+      "article": "250.52",
+      "topic": "Concrete Encased Grounding Electrode — Required at New Buildings",
+      "summary": "Except for mobile/manufactured homes, a concrete encased grounding electrode must be installed at each new building or structure built on a permanent concrete foundation, complying with NEC 250.52(A)(3). Exception: if unavailable, a ground ring or other grounding electrode verified at 25 ohms or less may substitute, with written resistance test record required at inspection."
+    },
+    {
+      "article": "250.53(A)(2)",
+      "topic": "Rod, Pipe, and Plate Electrode — Two Electrode Requirement",
+      "summary": "If a ground resistance test is not performed to verify 25 ohms or less, two or more electrodes must be installed a minimum of six feet apart. For services at adjacent but structurally separate buildings, each building's rod/pipe/plate electrodes must be at least six feet from the adjacent building's electrodes."
+    },
+    {
+      "article": "250.64",
+      "topic": "Grounding Electrode Conductor — Physical Protection",
+      "summary": "Grounding electrode conductors are considered not exposed to physical damage when: buried more than 12 inches deep outside the building footprint, encased or covered by two inches of concrete or asphalt, located inside the building footprint protected by structural elements or determined by inspector not subject to physical damage, or enclosed by a metal or nonmetallic raceway approved for severe physical damage protection."
+    },
+    {
+      "article": "250.68",
+      "topic": "Grounding Electrode Conductor — Accessibility of Tap Connections",
+      "summary": "The termination point of a grounding electrode conductor tap must be accessible unless the connection is made using an exothermic or irreversible compression connection."
+    },
+    {
+      "article": "250.90",
+      "topic": "Bonding — Metallic Plumbing Stubs and Mixing Valves",
+      "summary": "Metallic stubs or valves used in nonmetallic plumbing systems are not required to be bonded to the electrical system unless required by an electrical equipment manufacturer's instructions. Hot and cold water plumbing lines are not required to be bonded together if the inspector can determine the lines are mechanically and electrically joined by one or more metallic mixing valves."
+    },
+    {
+      "article": "250.104(B)",
+      "topic": "Bonding Flexible Metal Gas Piping",
+      "summary": "For flexible metal gas piping installed new or extended from existing rigid metal piping: either follow manufacturer's bonding instructions, or install a minimum 6 AWG copper bonding conductor terminating at the gas meter end on solid iron pipe or cast flexible fitting using a listed grounding connector, AND at the service equipment enclosure, service grounding electrode conductor, or neutral bus in the service enclosure."
+    },
+    {
+      "article": "250.184",
+      "topic": "Solidly Grounded Neutral Systems Over 1,000V — Concentric Shield Rules",
+      "summary": "For existing installations, concentric shield used as neutral conductor is allowed for extension/replacement/repair under specific conditions including shield sizing at minimum 33.5% ampacity for three-phase or 100% for single-phase, outer insulating jacket required, and existing cable must pass a high potential dielectric test and resistance test certified by a Washington registered electrical engineer. For new installations, concentric shield may not be used as a neutral conductor — a listed separate neutral per NEC 250.184(A) is required."
+    },
+    {
+      "article": "300.5",
+      "topic": "Underground Installations — Induction Loops",
+      "summary": "Induction detection loops in public roadways regulated by a governmental agency are covered under WAC 296-46B-010(17). Other induction loops must comply with specific requirements: preformed direct burial loops must be rated for direct burial, minimum #16 AWG, and have no movement within the outer jacket. Saw-cut loops must be cross-linked polyethylene or EPR Type USE insulation, minimum #18 AWG stranded, and saw-cut grooves must not cut into rebar."
+    },
+    {
+      "article": "300.11",
+      "topic": "Support of Raceways, Cables, or Boxes in Suspended Ceilings",
+      "summary": "Support wires may support raceways and cables in suspended ceilings if: raceways/cables are not larger than 3/4-inch trade size, no more than two raceways or cables per support wire (limit does not apply to telecom, Class 2, or Class 3 cables on dedicated support wires), support wires are minimum #12 AWG and secured to structural ceiling and ceiling grid, and raceways or cables serve equipment within the ceiling cavity or mounted on the ceiling grid."
+    },
+    {
+      "article": "314.23(H)",
+      "topic": "Flexible Cord Connection of Pendant Boxes",
+      "summary": "Suspended pendant boxes must not contain conduit knockouts and must use an integral threaded hub. Maximum cord length for suspended pendant drop is six feet. Cord must be supported at each end with an approved cord grip or strain relief. Minimum #14 AWG copper, hard or extra hard usage, ampacity per NEC Table 400.5(A) column A."
+    },
+    {
+      "article": "314.27(C)",
+      "topic": "Boxes at Ceiling-Suspended Fan Outlets — Location Restrictions",
+      "summary": "Acceptable locations for ceiling-suspended (paddle) fans include all ceiling areas of habitable rooms in dwelling occupancies except: areas within four feet of walls, soffits, or fixed cabinetry, or areas directly above permanently installed island or peninsular countertop surfaces."
+    },
+    {
+      "article": "334.10",
+      "topic": "NM Cable — Multifamily and Other Structures",
+      "summary": "Washington amends NEC 334.10(2): in multifamily dwellings, NM/NMC/NMS cable may be used in Types III, IV-HT, and V construction. Amends 334.10(3): in all other structures, NM/NMC/NMS cable may be used in Types III, IV-HT, and V construction but must be concealed within walls, floors, or ceilings providing a thermal barrier with at least a 15-minute finish rating."
+    },
+    {
+      "article": "334.15",
+      "topic": "NM Cable — Exposed Work and Crawl Space Exceptions",
+      "summary": "Where NMC cable is installed in shallow chases in plaster, masonry, concrete, adobe or similar material, it must be protected by a steel plate at least 1/16 inch thick and covered with finish, or recessed at least 2-3/4 inches deep and covered with finish with cable at least 2-1/2 inches from the finished surface. NEC 334.15(C) protection requirements do not apply in crawl spaces. NM cable is permitted inside conduit installed outdoors for physical protection under specific conditions."
+    },
+    {
+      "article": "358.12",
+      "topic": "EMT — Below Grade and Wet Location Requirements",
+      "summary": "EMT may not be installed in direct contact with the earth or in concrete on or below grade. Where installed in wet locations, an equipment grounding conductor must be provided within the raceway, sized per NEC 250.122."
+    },
+    {
+      "article": "394",
+      "topic": "Knob-and-Tube Wiring — Insulation in Existing Installations",
+      "summary": "Thermal insulating material may be installed in spaces with existing knob-and-tube wiring if: a licensed electrical contractor certifies in writing the wiring is in good condition with no improper overcurrent protection, insulation failure, or improper splices; insulation meets Class I specifications with flame spread of 25 or less (foam insulation not permitted); and all circuits have overcurrent protection per NEC Table 310.16, 60 degree column, using circuit breakers or Type S fuses only."
+    },
+    {
+      "article": "408",
+      "topic": "Panelboards — Prohibited Locations",
+      "summary": "In addition to NEC 230.70(A), service equipment, subpanels, and similar electrical equipment must be readily accessible and may not be installed in clothes closets, toilet rooms, or shower rooms."
+    },
+    {
+      "article": "410.10",
+      "topic": "Luminaires — Shower and Bathtub Areas",
+      "summary": "All luminaires within an enclosed shower area or within five feet of the waterline of a bathtub must be enclosed unless specifically listed for such use. These luminaires with exposed metal parts that are grounded must be GFCI protected."
+    },
+    {
+      "article": "410.42",
+      "topic": "Luminaires — Replacement Without Ground",
+      "summary": "Replacement luminaires directly wired or attached to boxes supplied by wiring methods without a ready means for grounding and that have exposed conductive surfaces are permitted only where provided with GFCI protection and marked 'no equipment ground.'"
+    },
+    {
+      "article": "422.10",
+      "topic": "Water Heater Circuit",
+      "summary": "Water heaters with a rated circuit load in excess of 3,500 watts at 208 or 240 volts must be provided with branch circuit conductors not smaller than #10 AWG copper or equal. Overcurrent protection must comply with NEC 422.11(E)."
+    },
+    {
+      "article": "500.5",
+      "topic": "Hazardous Location Classification",
+      "summary": "Classification of hazardous locations may only be done by the authority having jurisdiction or a professional engineer registered in Washington who uses appropriate NFPA standards as the basis for classification. The AHJ makes the final determination in cases of conflict."
+    },
+    {
+      "article": "501.1",
+      "topic": "Class I Locations — Sewage Disposal Systems",
+      "summary": "Pumping chambers for sewage, effluent, or grinder pumps in on-site and STEP disposal systems are considered unclassified when no more than five residential units are connected or when the system has residential loading characteristics, provided all general installation requirements are met including adequate venting, hermetically sealed float switches, noncorrosive junction boxes and conduit, approved sealing to prevent gas migration, and wet-location-rated wire splices."
+    },
+    {
+      "article": "514.1 / 514.3 / 514.11 / 514.13",
+      "topic": "Motor Fuel Dispensing Facilities",
+      "summary": "Article 514 applies to all liquefied flammable gas storage or transfer facilities in addition to the NEC scope. Emergency disconnecting means must disconnect all conductors (including grounded conductor) simultaneously from all station dispensers and pumps. For multicircuit installations, an electrically held normally open contactor operated by a pushbutton may serve as the disconnecting means. The reset must be at least 15 feet or out of sight from the pushbutton, behind a cover or guard. Disconnecting means must be labeled with at least 1-inch letters and colored substantially red. Maintenance disconnect for each dispenser must be capable of isolating each dispenser individually while others remain operational."
+    },
+    {
+      "article": "517",
+      "topic": "Health Care Facilities — Essential Electrical System Sizing and Wiring",
+      "summary": "Life safety branch feeder conductors and equipment must be calculated by summation of connected loads with no diversity reduction, subject to 125% multiplier for continuous loads. Critical and equipment branches calculated per Article 220 with diversity. Generator rating must meet or exceed summation of all essential system loads with no additional demand factors. NEC 517.13(A) modified: metal raceway system or metallic cable armor qualifies as equipment grounding conductor per 250.118 except 250.118(10)(a). Ground fault protection per NEC 700.31 also applies to critical and equipment branches."
+    },
+    {
+      "article": "547.1",
+      "topic": "Agricultural Buildings — Scope Limitation",
+      "summary": "NEC 547 requirements apply only when the agricultural building is greater than 1,000 square feet and is used as part of a business or commercial farming activity."
+    },
+    {
+      "article": "550",
+      "topic": "Mobile/Manufactured Homes — Permits, Service, and Feeder Requirements",
+      "summary": "All alterations to mobile/manufactured home electrical systems must be permitted and inspected. Any circuit from a pedestal or outbuilding panel feeding the home requires an electrical section permit. Circuits from the home's panel to attached additions require an FAS alteration permit. Circuits from the home panel to unattached structures require two permits: FAS permit to a J-box under the home's exterior wall, and an electrical section permit from the J-box to the equipment. When supplied with power using a permanent wiring method, the equipment grounding conductor may be bare (bare conductors underground must be copper)."
+    },
+    {
+      "article": "555",
+      "topic": "Marinas, Boatyards, and Floating Buildings",
+      "summary": "Transformer terminations must be located a minimum of 12 inches above the dock deck. All electrical connections must be installed a minimum of 12 inches above the pier deck unless using sealed submersion-listed junction boxes. Receptacles must be mounted not less than 12 inches above deck, rated not less than 20 amperes, single outlet, locking and grounding type or pin and sleeve type. For floating buildings: disconnecting means must be within sight of each floating building but not on or in it. Overcurrent devices supplying floating buildings must have ground fault protection not exceeding 30 mA. Conductors over 600V may not be installed on floating portions."
+    },
+    {
+      "article": "590",
+      "topic": "Temporary Installations",
+      "summary": "Any circuit used for construction purposes is considered temporary. Temporary construction service equipment may only be used for construction purposes and must be disconnected when permanent service is connected unless the department grants an extension. A splice or junction box is required for all wiring splice or junction connections in a temporary installation."
+    },
+    {
+      "article": "600",
+      "topic": "Electric Signs — Listing, Retrofitting, and Outdoor Requirements",
+      "summary": "All electrical signs and outline lighting regardless of voltage must be listed or field evaluated to the applicable ANSI UL Standard. Luminaires in outdoor awnings must be suitable for wet locations. Fluorescent luminaires must be at least 6 inches from awning fabric; incandescent at least 18 inches. Retrofitted signs using listed retrofit kits by a licensed (01) general or (04) sign electrical contractor are permitted. Retrofit signs must be marked with a contrasting label near the retrofit subassembly warning of electrical hazard and requiring same-type-and-rating replacement parts."
+    },
+    {
+      "article": "620.51",
+      "topic": "Elevators — Main Line Disconnect Location",
+      "summary": "Main line disconnect must be located inside the machine room door on the strike side, not more than 24 inches from the door to the operating handle, and at a height between 36 and 66 inches above finish floor measured centerline to the handle. For multicar machine rooms, switches must be grouped together. For double-swing-door machine rooms, doors must swing out and switch must be on the wall adjacent to the hinge side of the active door panel. Shunt-trip breakers where provided must be in the elevator machine room or control room."
+    },
+    {
+      "article": "680",
+      "topic": "Swimming Pools, Spas, Hot Tubs — Listing and Equipment Requirements",
+      "summary": "Electrical heating, pumping, filtering, and control equipment installed within five feet of a spa or hot tub must be listed or field evaluated as a package with the spa or hot tub. Factory assembled skid packs must be installed more than five feet from the spa or hot tub. Maintenance disconnect and field installed equipment for hot tubs and spas must be at least five feet away. For hydromassage bathtubs: GFCI device must be identified for use and not located in a building or tub cavity, crawlspace, or attic. All equipment supporting the bathtub must be accessible at the same grade level as the tub or from a landing on the building exterior without a ladder."
+    },
+    {
+      "article": "690",
+      "topic": "Solar Photovoltaic Systems — Design Review and Voltage Calculation",
+      "summary": "A PV system design review must be available at the installation site at the time of the first inspection and until the inspection process is complete. Open-circuit voltage temperature coefficients from listed PV module instructions are used to determine maximum DC voltage. Where not supplied, use NEC Table 690.7 with a temperature correction factor of 1.25 unless another factor is justified and approved by the AHJ. Structural support or foundation work exclusively mechanical may be done without electrical permit or inspection."
+    },
+    {
+      "article": "700",
+      "topic": "Emergency Systems — Exit Lights, Equipment Color, and Signs",
+      "summary": "In health or personal care facilities, educational facilities, institutional facilities, hotels, motels, and places of assembly for 100 or more persons, all exit and emergency lights must comply with Article 700 and be located per state building code. All exit and emergency lights whether or not required by NEC must comply with Article 700. All boxes and enclosures for Article 700 systems larger than 6x6 inches must have a permanently orange identification plate. All device and junction boxes for emergency systems must be substantially orange in color inside and outside. Sign at service disconnecting means and meter base required if not within sight and within five feet of each other. Selective coordination not required for systems installed prior to June 1, 2006 with no modifications or replaced overcurrent devices on or after April 1, 2024."
+    },
+    {
+      "article": "701",
+      "topic": "Legally Required Standby Systems — Signs and Selective Coordination",
+      "summary": "Sign required at service disconnecting means and meter base if not within sight and within five feet of each other. Selective coordination not required for systems installed prior to June 1, 2006 with no modifications or replaced overcurrent devices on or after April 1, 2024."
+    },
+    {
+      "article": "702",
+      "topic": "Optional Standby Systems — Sign Requirements",
+      "summary": "Sign required per NEC 702.7(A) and at the meter base if not within sight and within five feet of where a sign is required. When no 230.85 emergency disconnect is present, sign also required at the service disconnecting means."
+    },
+    {
+      "article": "705.11",
+      "topic": "Interconnected Power — Supply Side Source Connections",
+      "summary": "Electric power production source conductors connected to the supply side of the service disconnecting means must use wiring methods specified for service conductors in WAC 296-46B-230(7). The disconnecting means for those conductors must comply with NEC 230.82(6). A system design review is required whenever power sources under NEC Articles 230, 445, 480, 690, 692, 694, 700, 701, 702, or 706 are interconnected as part of a NEC 705 system."
+    }
+  ]
+}
