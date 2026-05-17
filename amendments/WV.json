@@ -1,0 +1,18 @@
+{
+  "state": "WV",
+  "stateName": "West Virginia",
+  "necCycle": "2020",
+  "effectiveDate": "2022-08-01",
+  "source": "W. Va. Code R. § 87-4-4, Title 87 Legislative Rule, West Virginia Fire Commission, Series 4 State Building Code. Adopted May 2022, effective August 1, 2022. Section 4.1.m governs the 2020 NEC with WV exceptions.",
+  "note": "West Virginia electrical exams transition to 2023 NEC effective January 1, 2026, indicating a code update is in process. Current enforcement remains under 2020 NEC with the two exceptions listed below. The WV State Building Code is adopted at the state level but local adoption is required by local jurisdictions — most but not all jurisdictions have adopted it.",
+  "amendments": [
+    {
+      "article": "210.8(F)",
+      "summary": "GFCI for outdoor outlets — HVAC equipment exception. GFCI protection is not required on all new mini-split HVAC equipment and other HVAC units employing power conversion equipment as a means to control compressor speed, including but not limited to mini-split and A/C units. Note: The rule text states this exception applied 'until January 1, 2023' — however, since WV is still enforcing the 2020 NEC (which originally contained this exception as a sunset provision), field practice and AHJ interpretation may vary. Electricians should confirm with local inspectors whether this exception remains in effect."
+    },
+    {
+      "article": "210.12 - AFCI for Renovations",
+      "summary": "AFCI protection for renovations in one- and two-family homes is reduced from base 2020 NEC requirements in two scenarios: (1) For renovations where no new square footage is involved, AFCI protection shall not be required except for bedrooms. (2) For renovations where square footage is added but no new electrical service is installed, AFCI protection shall not be required. Note: This amendment applies only to renovations — new construction in WV follows base 2020 NEC AFCI requirements in full."
+    }
+  ]
+}
