@@ -1,0 +1,54 @@
+{
+  "state": "OH",
+  "stateName": "Ohio",
+  "necCycle": "2023",
+  "effectiveDate": "2024-04-15",
+  "source": "Ohio Administrative Code Rule 4101:8-34-01, Section 3401 Electrical. Effective April 15, 2024 for residential (one-, two-, and three-family dwellings). Commercial buildings adopted 2023 NEC effective March 1, 2024 via 2024 Ohio Building Code Chapter 35. Ohio Board of Building Standards.",
+  "note": "Ohio applies the 2023 NEC to one-, two-, and three-family dwellings (Ohio expands 'one- and two-family dwelling' references in NFPA 70 to include three-family dwellings). A three-family dwelling is regulated as multi-family for certain provisions (e.g., 210.52(E)(1)). Commercial 2023 NEC has one key difference: 210.8(F) Exception No. 2 for listed HVAC equipment does not expire in Ohio.",
+  "amendments": [
+    {
+      "article": "210.8(A)",
+      "summary": "GFCI dwelling units — Ohio limits to 125-volt, single-phase, 15- and 20-ampere receptacles only. The base 2023 NEC 210.8(A) covers '125-volt through 250-volt' receptacles; Ohio deletes 'through 250-volt' so 240/250-volt receptacles (ranges, dryers, ovens) are NOT required to have GFCI protection in Ohio."
+    },
+    {
+      "article": "210.8(A)(2)",
+      "summary": "GFCI — Garages: Ohio modifies 210.8(A)(2) to add an exception for garage door opener receptacles. A single receptacle located in the ceiling to serve a garage door opener is not required to have GFCI protection."
+    },
+    {
+      "article": "210.8(A)(5)",
+      "summary": "GFCI — Basements: Ohio replaces the 2023 NEC 'Basements' with 'Unfinished portions or areas of the basement not intended as habitable rooms.' Finished basement receptacles in Ohio dwelling units do NOT require GFCI protection. Two exceptions added: (1) A receptacle supplying only a permanently installed fire alarm or burglar alarm system is exempt. (2) A single receptacle serving a sump pump is exempt when there is a duplex GFCI-protected receptacle within 6 ft of the sump pump."
+    },
+    {
+      "article": "210.8(D)",
+      "summary": "Specific appliance GFCI — Deleted in its entirety. Ohio does not adopt the 2023 NEC requirement for GFCI protection on branch circuits or outlets supplying specific appliances (dishwashers, ranges, dryers, microwaves, vending machines, etc.). Note: Sump pumps are also specifically excluded via a corresponding deletion of item (6) under Section 422.5."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI for dwellings — modified. Ohio adopts 210.8(F) but rewrites it to clarify coverage: all outdoor outlets for dwellings (other than those in garages with floor at or below grade, accessory buildings, and boathouses covered by 210.8(A)) shall have GFCI protection where supplied by single-phase branch circuits rated 150 volts or less to ground, 50 amperes or less. Exception No. 1: Lighting outlets (other than those in 210.8(C)) are exempt. Exception No. 2: Listed HVAC equipment is exempt — and Ohio makes this exception permanent (no expiration date), unlike the base 2023 NEC which originally set a sunset date."
+    },
+    {
+      "article": "210.12(A)",
+      "summary": "AFCI protection — Ohio retains AFCI for dwelling units but with a key modification. Ohio replaces the 2023 NEC 210.12(B) dwelling unit list with a modified list identical to the 2017/2020 NEC scope: kitchens, family rooms, dining rooms, living rooms, parlors, libraries, dens, bedrooms, sunrooms, recreational rooms, closets, hallways, laundry rooms, and similar rooms or areas. Exception No. 2 added: Branch circuits supplying receptacle outlets installed to serve only kitchen countertop surfaces are permitted to be installed without AFCI protection. The six permitted AFCI methods (combination type, branch/feeder + outlet, supplemental + outlet, outlet + OCPD, metal raceway from panel to first outlet, concrete-encased conduit to first outlet) are retained as in the 2023 NEC."
+    },
+    {
+      "article": "210.64",
+      "summary": "Service equipment receptacle: Ohio modifies the location requirement from within 25 ft to within 25 ft of indoor service equipment and adds a requirement that the receptacle be in the same room or area as the service equipment. Exception No. 1: The receptacle is not required in one-, two-, or three-family dwellings. Exception No. 2: Not required for services dedicated to equipment covered in Articles 675 and 682 where service voltage exceeds 120 volts to ground."
+    },
+    {
+      "article": "215.18(A)",
+      "summary": "Surge protection — feeders: Ohio modifies 215.18(A) to make SPD installation optional rather than mandatory. Language changed to 'Where provided as part of feeder supplies for the dwelling or dwelling unit, a surge-protection device (SPD) is to be installed in accordance with this section.' SPDs are not required; they are regulated only when voluntarily installed."
+    },
+    {
+      "article": "225.42(A)",
+      "summary": "Surge protection — outside branch circuits and feeders: Same modification as 215.18(A). SPD installation is optional — 'Where provided as part of feeder supplies for the dwelling or dwelling unit' — not mandatory."
+    },
+    {
+      "article": "230.67(A)",
+      "summary": "Surge protection — services: Ohio modifies 230.67(A) to make SPD installation optional rather than mandatory. Language changed to 'Where provided as part of the service supplying the dwelling or dwelling unit, surge-protection devices (SPD) are to be installed in accordance with this section.' Mandatory SPDs at the service are not required in Ohio."
+    },
+    {
+      "article": "422.5",
+      "summary": "Appliance GFCI — Sump pumps deleted. Ohio deletes item (6) Sump Pumps under Section 422.5. Sump pumps are not required to have GFCI protection on their branch circuit or outlet in Ohio."
+    }
+  ]
+}
