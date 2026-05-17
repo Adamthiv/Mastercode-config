@@ -1,0 +1,25 @@
+{
+  "state": "SC",
+  "stateName": "South Carolina",
+  "necCycle": "2020",
+  "effectiveDate": "2023-01-01",
+  "source": "South Carolina Building Codes Council, 2021 Modification Index (NEC 2020-03 through 2020-06). Adopted October 6, 2021. Published in South Carolina State Register Vol. 46, Issue 5, May 27, 2022. Effective January 1, 2023. SC LLR Building Codes Council, llr.sc.gov/bcc.",
+  "amendments": [
+    {
+      "article": "210.8(A)(5)",
+      "summary": "GFCI — Basements in dwelling units: South Carolina reverts the 2020 NEC 'all basements' requirement back to the 2017 NEC language — GFCI protection is required only in 'unfinished portions or areas of the basement not intended as habitable rooms.' Finished basements in dwelling units are NOT required to have GFCI-protected receptacles in South Carolina. Exception retained: A receptacle supplying only a permanently installed fire alarm or burglar alarm system shall not be required to have GFCI protection."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI for dwellings: South Carolina modifies 210.8(F) to limit the GFCI requirement for outdoor outlets to those supplied by single-phase branch circuits rated 150 volts to ground or less, 50 amperes or less, other than those covered in 210.8(A)(3) Exception. The modification removes specific HVAC condenser circuit coverage from the mandatory GFCI requirement. Exception retained: GFCI protection shall not be required on lighting outlets other than those covered in 210.8(C). Rationale: SC cited lack of data supporting GFCI on hardwired HVAC condensers and potential for nuisance tripping causing property damage."
+    },
+    {
+      "article": "210.12",
+      "summary": "AFCI protection — South Carolina retains 2017 NEC AFCI scope. AFCI protection is required in dwelling unit kitchens, family rooms, dining rooms, living rooms, parlors, libraries, dens, bedrooms, sunrooms, recreation rooms, closets, hallways, and laundry areas. South Carolina did NOT adopt the 2020 NEC expansions to AFCI coverage including bathrooms, unfinished basements, and guest rooms/suites. The branch circuit extensions or modifications provision retains the 2017 NEC language scope."
+    },
+    {
+      "article": "230.67",
+      "summary": "Surge Protection — Deleted. South Carolina does not adopt the 2020 NEC requirement for surge-protective devices (SPDs) at services supplying dwelling units. SPDs remain permitted but are not mandatory. Rationale: SC cited lack of adequate substantiation from the code-making panel, and concerns about unspecified performance requirements allowing installation of lowest-level protection devices."
+    }
+  ]
+}
