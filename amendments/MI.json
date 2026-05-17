@@ -1,0 +1,39 @@
+{
+  "state": "Michigan",
+  "abbreviation": "MI",
+  "nec_cycle": "2023",
+  "effective_date": "2024-03-12",
+  "ahj_note": "Residential installations are governed by the Michigan Residential Code. Verify with local AHJ for residential work.",
+  "amendments": [
+    {
+      "article": "230.85",
+      "topic": "Emergency Disconnects",
+      "summary": "Michigan added 230.85 requiring an emergency disconnecting means for 1- and 2-family dwellings. Must be installed in a readily accessible outdoor location on or within sight of the dwelling unit. Each disconnect shall be a service disconnect rated for available fault current. If more than one disconnect is provided, they shall be grouped. Marked: EMERGENCY DISCONNECT, SERVICE DISCONNECT. Applies on service equipment replacement. Exception: where 225.41 requirements are met."
+    },
+    {
+      "article": "215.18 / 225.42 / 230.67",
+      "topic": "Surge Protection",
+      "summary": "Michigan requires surge protection for feeders and services for dwelling units, dormitory units, hotel and motel guest rooms and suites, nursing homes, and limited-care facility patient sleeping rooms."
+    },
+    {
+      "article": "250.104(B)",
+      "topic": "Bonding Other Metal Piping / CSST",
+      "summary": "Michigan amended 250.104(B) to require bonding of metal piping systems (including gas piping) capable of becoming energized to the EGC, service enclosure, grounded conductor, or grounding electrode. For CSST: listed CSST gas piping must be bonded to the electrical service grounding electrode system with a bonding jumper no smaller than 6 AWG copper, connected between the point of delivery and first downstream CSST fitting. Exception: listed CSST systems approved by manufacturer for installation without additional bonding."
+    },
+    {
+      "article": "334.10 / 334.12(A)",
+      "topic": "NM Cable Uses Permitted",
+      "summary": "Michigan amended 334.10 to permit Type NM and NMC cable in: 1- and 2-family dwellings and attached/detached garages; multifamily dwellings and detached garages; structures exceeding 1 floor above grade only if concealed within walls, floors, or ceilings with a minimum 15-minute finish rating. NMS cable type removed from permitted list. Uses not permitted include exposed in dropped/suspended ceilings in other than 1- and 2-family or multifamily dwellings, commercial garages with hazardous locations, theaters, motion picture studios, storage battery rooms, hoistways, poured concrete, and hazardous locations."
+    },
+    {
+      "article": "700.9 / 701.9",
+      "topic": "Emergency and Standby Systems Installation",
+      "summary": "Michigan amended 700.9 and 701.9 to require emergency systems and legally required standby systems to be installed pursuant to NFPA 110 and NFPA 111, 2019 editions, as adopted by reference in the Michigan Electrical Code."
+    },
+    {
+      "article": "Article 547",
+      "topic": "Agricultural Buildings Excluded",
+      "summary": "Sections 547.1 through 547.10 (agricultural buildings) are excluded from the Michigan Electrical Code adoption."
+    }
+  ]
+}
