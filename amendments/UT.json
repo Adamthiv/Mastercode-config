@@ -1,0 +1,74 @@
+{
+  "state": "UT",
+  "stateName": "Utah",
+  "necCycle": "2023",
+  "effectiveDate": "2024-07-01",
+  "source": "Utah Code § 15A-3-601, Statewide Amendments to National Electrical Code, as amended by H.B. 313 (2025), effective July 1, 2025. Utah State Legislature. Codes adopted by the Utah Legislature through the State Construction and Fire Codes Act (Title 15A).",
+  "note": "Utah electrical code amendments are enacted by the state legislature, not a regulatory board. The 2023 NEC was adopted effective July 1, 2024. HB 313 (2025) made additional amendments effective July 1, 2025. Residential installations under the IRC use IRC electrical provisions; all other installations use the NEC with Utah amendments.",
+  "amendments": [
+    {
+      "article": "210.8(A) - 250V Receptacles",
+      "summary": "GFCI for dwelling units — 250-volt receptacles excluded. The words 'through 250-volt' are deleted from 210.8(A). Utah GFCI requirements for dwelling unit receptacles apply only to 125-volt, single-phase, 15- and 20-ampere receptacles. Ranges, dryers, ovens, and other 240/250-volt appliances do NOT require GFCI-protected receptacles in Utah."
+    },
+    {
+      "article": "210.8(A)(5) - Basements",
+      "summary": "GFCI for dwelling unit basements — reverted to pre-2020 NEC language. 'Basements' is replaced with 'Unfinished portions or areas of the basement not intended as habitable rooms.' Finished basement receptacles in Utah dwelling units are NOT required to have GFCI protection."
+    },
+    {
+      "article": "210.8(A)(6) - Kitchens",
+      "summary": "GFCI for dwelling unit kitchens — limited to countertop-serving receptacles. Utah adds after the word 'Kitchens': 'where the receptacles are installed to serve the countertop surfaces.' GFCI is not required for all kitchen receptacles, only those serving countertop surfaces. This is the 2020 NEC kitchen language, not the expanded 2023 NEC kitchen language."
+    },
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI for dwellings — deleted. Section 210.8(F) is deleted in its entirety. Utah does not require GFCI protection for outdoor outlets at dwelling garages at grade, accessory buildings, or boathouses. No statewide outdoor outlet GFCI requirement beyond what is covered in 210.8(A)."
+    },
+    {
+      "article": "210.12",
+      "summary": "AFCI protection — deleted in its entirety. Section 210.12 is deleted. Utah has no statewide requirement for arc-fault circuit-interrupter protection in any occupancy. AFCI devices are not required anywhere in Utah under the state electrical code."
+    },
+    {
+      "article": "210.52(C)(2) and (3) — Island and Peninsular Countertops",
+      "summary": "Island and peninsular countertop receptacles — replaced with Utah-specific provisions. Utah replaces the 2023 NEC countertop receptacle requirements with language allowing receptacle outlets to be installed on or above but not more than 20 inches above a countertop or work surface, in a countertop using receptacle assemblies listed for countertops, or in a work surface using assemblies listed for work surfaces or countertops. Key difference: If a receptacle outlet is NOT provided to serve an island or peninsular countertop, provisions shall be provided for future addition of a receptacle (roughed-in conduit or similar). Exception for ADA-accessible dwelling units: receptacles permitted up to 12 inches below the countertop where countertop doesn't extend more than 6 inches beyond its support or base."
+    },
+    {
+      "article": "210.65",
+      "summary": "Meeting rooms — deleted. Utah does not adopt the 2023 NEC requirement for receptacle outlets in meeting rooms."
+    },
+    {
+      "article": "230.67",
+      "summary": "Surge Protection — deleted. Utah does not adopt the requirement for surge-protective devices (SPDs) at services supplying dwelling units. SPDs remain permitted but are not mandatory."
+    },
+    {
+      "article": "230.71",
+      "summary": "Maximum number of service disconnects — deleted and replaced. Utah replaces 230.71 with a modified version that: limits service disconnecting means to not more than six switches or circuit breakers per service (consistent with base NEC), clarifies that disconnecting means for power monitoring equipment, SPDs, control circuits of ground-fault protection systems, or power-operable service disconnecting means shall not be considered a service disconnecting means for counting purposes. The Utah version omits certain 230.71(B) provisions from the base NEC."
+    },
+    {
+      "article": "314.27(C)",
+      "summary": "Ceiling-suspended (paddle) fan outlet boxes — replaced with Utah-specific provision. Outlet boxes used as the sole support of a ceiling fan shall be listed, marked as suitable for the purpose, and shall not support fans that weigh more than 70 lb. For outlet boxes designed to support fans weighing more than 35 lb, the required marking shall include the maximum weight to be supported. Utah's version does not include the base 2023 NEC language about listed systems designed to support fans exceeding 70 lb."
+    },
+    {
+      "article": "334.24",
+      "summary": "NM cable bending radius — modified. The last sentence is deleted and replaced: 'For flat cables, the minor diameter dimension of the cable shall be used to determine the bending radius when bending on the flat side of the cable. For all other bends, the major diameter dimension shall be used.' This provides clarification on which cable dimension governs bending radius calculations for flat vs. edge bends."
+    },
+    {
+      "article": "334.80",
+      "summary": "NM cable ampacity — the second paragraph of 334.80 is deleted. This removes a limitation on ampacity adjustment for NM cable installed in thermal insulation."
+    },
+    {
+      "article": "338.24",
+      "summary": "SE cable bending radius — modified with same language as 334.24: minor diameter used for flat-side bends, major diameter used for all other bends."
+    },
+    {
+      "article": "406.9(B)(2)",
+      "summary": "Outdoor outlets — weather-resistant receptacles. The words 'be listed weather-resistant type, and installation shall' are deleted from 406.9(B)(2). Utah removes the requirement for receptacles in damp or wet outdoor locations to be listed as weather-resistant type."
+    },
+    {
+      "article": "406.9(C)",
+      "summary": "Bathtub and shower space — deleted and replaced with simplified Utah provision: 'Receptacles shall not be installed within or directly over a bathtub or shower stall.' Utah reverts from the 2020 NEC expanded zone (which added restrictions within 3 ft of the outside edge of the tub/shower) to a simpler prohibition covering only the area within or directly over the bathtub or shower stall."
+    },
+    {
+      "article": "700.3(A)",
+      "summary": "Emergency systems conductor witness test — replaced with Utah-specific provision governing annual testing and maintenance of emergency electrical systems."
+    }
+  ]
+}
