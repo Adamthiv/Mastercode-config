@@ -1,0 +1,22 @@
+{
+  "state": "SD",
+  "stateName": "South Dakota",
+  "necCycle": "2023",
+  "effectiveDate": "2024-11-12",
+  "source": "South Dakota Electrical Commission, Administrative Rules of South Dakota (ARSD), 2023 NEC effective November 12, 2024 for inspections. South Dakota Department of Labor and Regulation. Exceptions summarized at dlr.sd.gov/electrical/tool_box.aspx.",
+  "note": "Permits received on or after November 12, 2025 are inspected under the 2023 NEC. All licensing exams moved to 2023 NEC effective December 2, 2024. The 2020 NEC exceptions (210.8(F) HVAC, 230.67 surge protection, 210.8(A) 250V revert, 406.9(C) bathroom revert) are superseded by the 2023 NEC adoption.",
+  "amendments": [
+    {
+      "article": "210.8(F)",
+      "summary": "Outdoor outlets GFCI for dwellings — amended. South Dakota adds an exception to 210.8(F) for outdoor HVAC/air conditioning equipment. GFCI protection is not required for outdoor outlets supplying listed air-conditioning and heat pump equipment. This exception addresses nuisance tripping concerns with HVAC systems at outdoor outlets. All other 210.8(F) outdoor outlet GFCI requirements (garages at grade, accessory buildings, boathouses) remain in effect."
+    },
+    {
+      "article": "210.8(A)",
+      "summary": "GFCI dwelling unit receptacles — amended for RV receptacles. South Dakota adds an exception for properly labeled RV receptacles. GFCI protection is not required for receptacles that are specifically designated and labeled for RV use and are installed in an acceptable location. This addresses farm and residential RV hook-up installations where the receptacle is properly identified. Note: Per SD Electrical Commission guidance, 30- and 50-amp GFCI on RV park pedestals serving two or more sites is not required."
+    },
+    {
+      "article": "210.8(D)(8)-(12)",
+      "summary": "GFCI for specific appliances in dwelling units — amended. South Dakota excludes items (8) through (12) of 210.8(D) for dwelling units only. The excluded appliances are: (8) Electric ranges, (9) Wall-mounted ovens, (10) Counter-mounted cooking units, (11) Clothes dryers, (12) Microwave ovens. These five appliances are NOT required to have GFCI protection on their branch circuits in dwelling units in South Dakota. Items (1) through (7) — automotive vacuum machines, drinking water coolers, high-pressure spray washing machines, tire inflation machines, vending machines, sump pumps, and dishwashers — remain required. The exemption applies to dwelling units only; commercial installations follow base 2023 NEC."
+    }
+  ]
+}
